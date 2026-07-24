@@ -1,0 +1,2001 @@
+Date,Provider,Insurance,Charge,Paid,Status,Denial Reason,Days AR
+2026-02-06,Dr. Fatima,UnitedHealth,960,917.7,Paid,,87
+2026-07-20,Dr. Ali,Medicaid,430,372.7,Paid,Coding Error,2
+2026-04-13,Dr. Khan,Cigna,2491,0.0,Pending,Coding Error,33
+2026-04-24,Dr. Ahmed,Aetna,559,447.99,Paid,,108
+2026-04-09,Dr. Ali,Medicare,1367,1106.3,Paid,Missing Documentation,39
+2025-08-05,Dr. Hassan,Medicaid,1397,0.0,Denied,,9
+2026-05-23,Dr. Hassan,Cigna,2712,2300.33,Paid,Duplicate Claim,47
+2026-06-14,Dr. Hassan,UnitedHealth,134,0.0,Denied,Duplicate Claim,4
+2026-01-11,Dr. Fatima,UnitedHealth,1121,1019.37,Paid,,74
+2026-06-23,Dr. Hassan,Aetna,2081,0.0,Denied,Duplicate Claim,85
+2026-07-03,Dr. Khan,Aetna,2867,2603.06,Paid,Missing Documentation,29
+2026-01-03,Dr. Ahmed,Aetna,2162,1736.36,Paid,Duplicate Claim,88
+2026-03-05,Dr. Ali,Aetna,1262,1189.14,Paid,Coding Error,106
+2025-09-24,Dr. Ahmed,Cigna,2378,2337.55,Paid,,33
+2025-11-07,Dr. Ali,Cigna,602,520.75,Paid,Duplicate Claim,86
+2026-03-29,Dr. Ali,Aetna,1670,1375.94,Paid,Coding Error,90
+2025-08-03,Dr. Ahmed,UnitedHealth,602,541.05,Paid,,63
+2025-08-28,Dr. Hassan,Medicaid,963,830.94,Paid,Coding Error,23
+2026-01-23,Dr. Hassan,Medicare,2378,2261.74,Paid,Prior Authorization,59
+2025-11-29,Dr. Fatima,Medicaid,1919,0.0,Denied,Missing Documentation,117
+2026-02-17,Dr. Hassan,Medicaid,2793,2356.42,Paid,Prior Authorization,92
+2025-08-28,Dr. Ahmed,Blue Cross,1596,1311.93,Paid,Missing Documentation,116
+2026-03-15,Dr. Ali,Aetna,1072,0.0,Pending,Coding Error,97
+2025-12-29,Dr. Ahmed,Cigna,1357,1341.51,Paid,,62
+2025-09-16,Dr. Khan,Blue Cross,1620,1375.99,Paid,,101
+2026-05-25,Dr. Fatima,Aetna,798,718.63,Paid,,19
+2025-08-27,Dr. Hassan,Blue Cross,1761,1581.19,Paid,Duplicate Claim,17
+2026-04-11,Dr. Fatima,Cigna,866,0.0,Pending,,70
+2025-10-08,Dr. Ahmed,Aetna,2030,0.0,Pending,Eligibility,80
+2025-08-28,Dr. Ali,UnitedHealth,1894,1771.86,Paid,,19
+2025-10-18,Dr. Khan,Aetna,1834,1720.64,Paid,Missing Documentation,89
+2025-08-25,Dr. Khan,Blue Cross,2069,0.0,Denied,Prior Authorization,16
+2026-02-12,Dr. Hassan,Cigna,2493,0.0,Denied,,2
+2025-08-28,Dr. Fatima,Medicare,1427,0.0,Denied,Prior Authorization,9
+2026-04-20,Dr. Ahmed,Cigna,1782,1745.33,Paid,,72
+2025-12-25,Dr. Hassan,Medicaid,1543,0.0,Pending,,112
+2025-07-29,Dr. Ahmed,Medicare,2657,0.0,Denied,,110
+2025-09-14,Dr. Fatima,Aetna,437,388.79,Paid,,33
+2026-01-10,Dr. Hassan,Blue Cross,1703,1473.23,Paid,,33
+2026-04-13,Dr. Fatima,Blue Cross,2835,2476.49,Paid,Eligibility,8
+2026-06-23,Dr. Ahmed,Cigna,2174,0.0,Pending,,69
+2025-12-12,Dr. Ahmed,Aetna,915,736.45,Paid,Coding Error,6
+2026-06-01,Dr. Fatima,Aetna,2246,2224.92,Paid,Coding Error,95
+2025-12-21,Dr. Fatima,Medicare,799,0.0,Pending,Prior Authorization,33
+2025-11-16,Dr. Khan,Blue Cross,227,199.52,Paid,Duplicate Claim,46
+2025-09-05,Dr. Khan,Blue Cross,725,723.56,Paid,,90
+2026-02-23,Dr. Ahmed,Blue Cross,884,0.0,Pending,Eligibility,48
+2026-07-21,Dr. Khan,Aetna,1600,1414.33,Paid,Duplicate Claim,13
+2026-06-23,Dr. Fatima,Cigna,2975,2678.4,Paid,,8
+2025-12-27,Dr. Ali,Cigna,2659,2154.2,Paid,,66
+2025-09-03,Dr. Ahmed,UnitedHealth,1923,1552.22,Paid,Eligibility,58
+2026-01-10,Dr. Ali,Cigna,2717,2193.9,Paid,Coding Error,97
+2026-03-06,Dr. Fatima,Cigna,2411,2032.87,Paid,Eligibility,109
+2026-04-15,Dr. Hassan,Medicare,1091,990.77,Paid,,106
+2025-09-24,Dr. Ali,Cigna,1793,1577.42,Paid,Prior Authorization,90
+2025-11-28,Dr. Ahmed,Cigna,840,685.59,Paid,Coding Error,1
+2025-12-27,Dr. Khan,Medicaid,1181,0.0,Denied,Eligibility,48
+2026-03-20,Dr. Ahmed,Medicare,587,0.0,Denied,Prior Authorization,64
+2025-07-31,Dr. Ali,Cigna,1570,1485.23,Paid,,101
+2025-09-11,Dr. Ahmed,Medicaid,2844,2327.42,Paid,,69
+2026-03-10,Dr. Fatima,Cigna,1327,1264.2,Paid,,94
+2026-05-26,Dr. Fatima,Cigna,456,420.97,Paid,,52
+2025-08-29,Dr. Ahmed,Medicare,2909,0.0,Denied,,16
+2025-11-10,Dr. Khan,Aetna,2939,0.0,Denied,,24
+2026-06-01,Dr. Ahmed,Medicare,2031,1886.1,Paid,,43
+2026-03-22,Dr. Khan,Blue Cross,1736,1673.65,Paid,,115
+2026-07-05,Dr. Fatima,UnitedHealth,853,694.54,Paid,,115
+2026-03-25,Dr. Khan,Medicare,716,672.02,Paid,Duplicate Claim,36
+2026-05-04,Dr. Ahmed,Cigna,828,0.0,Pending,Coding Error,73
+2026-05-08,Dr. Hassan,UnitedHealth,2339,2213.46,Paid,,103
+2025-10-25,Dr. Fatima,Cigna,2243,2211.94,Paid,,55
+2026-03-30,Dr. Ahmed,Aetna,1648,1396.92,Paid,,112
+2025-11-08,Dr. Ahmed,Cigna,828,810.7,Paid,Missing Documentation,19
+2026-03-05,Dr. Hassan,Blue Cross,175,173.49,Paid,Coding Error,69
+2025-09-03,Dr. Hassan,Medicare,495,462.58,Paid,Prior Authorization,16
+2026-02-07,Dr. Khan,Medicaid,2716,2678.48,Paid,Coding Error,35
+2026-03-13,Dr. Hassan,Aetna,1338,1259.28,Paid,,102
+2026-02-23,Dr. Ahmed,UnitedHealth,1642,1386.69,Paid,,5
+2026-03-27,Dr. Fatima,Aetna,2176,2170.19,Paid,Eligibility,116
+2026-03-06,Dr. Ahmed,Medicare,1780,0.0,Denied,,36
+2026-03-01,Dr. Ali,UnitedHealth,1910,1741.31,Paid,,39
+2026-04-10,Dr. Khan,Cigna,272,243.1,Paid,Duplicate Claim,61
+2026-01-08,Dr. Fatima,Cigna,994,943.51,Paid,Missing Documentation,63
+2026-05-18,Dr. Fatima,Medicaid,1631,1588.14,Paid,Coding Error,80
+2025-11-03,Dr. Hassan,Blue Cross,302,0.0,Denied,,20
+2026-03-24,Dr. Ahmed,Medicare,2194,2060.49,Paid,Eligibility,118
+2025-10-14,Dr. Khan,Medicaid,2803,2755.49,Paid,Duplicate Claim,28
+2026-01-08,Dr. Khan,UnitedHealth,472,395.36,Paid,,28
+2026-02-16,Dr. Ali,Medicaid,2879,2452.88,Paid,,73
+2026-01-21,Dr. Fatima,Medicare,1028,946.33,Paid,,6
+2026-05-10,Dr. Ahmed,UnitedHealth,1717,1573.17,Paid,Duplicate Claim,30
+2025-09-28,Dr. Ahmed,UnitedHealth,976,861.08,Paid,,11
+2026-02-20,Dr. Ali,Blue Cross,952,836.43,Paid,,77
+2026-02-27,Dr. Fatima,Medicaid,1733,1432.79,Paid,,69
+2026-01-29,Dr. Fatima,Medicare,1768,0.0,Denied,Coding Error,37
+2026-03-03,Dr. Ahmed,Medicare,813,0.0,Pending,Missing Documentation,110
+2026-01-19,Dr. Fatima,Cigna,2148,0.0,Denied,,113
+2026-02-04,Dr. Khan,UnitedHealth,587,511.65,Paid,,54
+2025-08-30,Dr. Khan,Cigna,2265,0.0,Pending,,54
+2026-07-03,Dr. Ahmed,Aetna,335,326.74,Paid,Prior Authorization,79
+2026-07-14,Dr. Ali,Medicaid,1352,1271.98,Paid,,38
+2026-04-06,Dr. Ali,Blue Cross,1429,1255.3,Paid,,52
+2025-10-07,Dr. Hassan,Medicaid,348,332.94,Paid,Prior Authorization,106
+2025-11-14,Dr. Hassan,UnitedHealth,2228,0.0,Denied,Duplicate Claim,17
+2025-08-16,Dr. Fatima,UnitedHealth,1453,1181.65,Paid,Eligibility,53
+2026-04-23,Dr. Ali,Blue Cross,1573,1457.67,Paid,Missing Documentation,23
+2025-12-14,Dr. Hassan,Cigna,2995,2479.16,Paid,Duplicate Claim,25
+2025-11-10,Dr. Khan,Medicare,1987,1854.89,Paid,,19
+2025-09-10,Dr. Fatima,Medicaid,1128,980.82,Paid,,5
+2025-08-07,Dr. Ahmed,Medicaid,2380,2329.65,Paid,Missing Documentation,26
+2026-04-08,Dr. Ali,Medicare,2396,2246.39,Paid,,26
+2025-10-14,Dr. Ahmed,Blue Cross,2951,0.0,Pending,,79
+2026-04-09,Dr. Khan,Cigna,402,360.56,Paid,Prior Authorization,78
+2025-10-14,Dr. Ali,Blue Cross,464,384.91,Paid,Prior Authorization,110
+2026-07-20,Dr. Khan,Medicaid,2510,2061.8,Paid,,115
+2026-04-26,Dr. Khan,Aetna,1315,1151.23,Paid,,103
+2026-03-03,Dr. Ahmed,Medicare,2233,1839.89,Paid,,25
+2026-04-24,Dr. Khan,Cigna,1703,1583.39,Paid,Eligibility,34
+2025-09-14,Dr. Ali,UnitedHealth,722,639.93,Paid,Missing Documentation,101
+2025-12-31,Dr. Khan,Blue Cross,1641,0.0,Pending,Duplicate Claim,59
+2026-06-08,Dr. Fatima,Medicaid,976,963.06,Paid,Coding Error,70
+2026-05-02,Dr. Ali,Medicaid,1705,1418.79,Paid,Duplicate Claim,55
+2026-05-06,Dr. Fatima,Cigna,1260,1140.18,Paid,Duplicate Claim,95
+2025-10-26,Dr. Hassan,Medicaid,105,104.36,Paid,Eligibility,113
+2026-06-14,Dr. Ahmed,UnitedHealth,1729,1614.42,Paid,Duplicate Claim,26
+2026-06-01,Dr. Fatima,Medicaid,1558,0.0,Pending,Eligibility,68
+2025-12-17,Dr. Hassan,Aetna,1910,1809.25,Paid,Eligibility,37
+2026-07-23,Dr. Ali,Blue Cross,2017,1807.69,Paid,,6
+2026-04-09,Dr. Khan,Cigna,789,717.77,Paid,,13
+2025-07-26,Dr. Ahmed,Medicare,1291,0.0,Pending,Missing Documentation,17
+2026-04-04,Dr. Ali,Medicaid,2924,2614.98,Paid,,69
+2025-07-28,Dr. Fatima,Blue Cross,2465,2173.4,Paid,Missing Documentation,34
+2025-12-13,Dr. Hassan,Medicare,2735,2694.77,Paid,Duplicate Claim,11
+2025-09-12,Dr. Ali,Medicare,972,933.03,Paid,Coding Error,5
+2025-09-29,Dr. Hassan,Aetna,2998,2712.03,Paid,Missing Documentation,18
+2026-02-15,Dr. Ali,Medicare,2443,2303.15,Paid,Eligibility,97
+2025-11-08,Dr. Ahmed,Aetna,1146,1049.16,Paid,Prior Authorization,66
+2026-04-10,Dr. Ali,Medicaid,2097,1773.65,Paid,Eligibility,67
+2026-07-08,Dr. Hassan,Medicare,2538,2382.53,Paid,,116
+2026-01-14,Dr. Hassan,Medicare,577,0.0,Pending,Eligibility,57
+2026-05-15,Dr. Ahmed,Medicaid,1220,1165.97,Paid,,86
+2025-11-11,Dr. Ahmed,Medicaid,1957,1908.77,Paid,Eligibility,13
+2026-02-22,Dr. Hassan,Medicare,914,0.0,Pending,Duplicate Claim,5
+2026-03-27,Dr. Ali,Blue Cross,2194,2093.9,Paid,,36
+2025-09-22,Dr. Ali,Medicaid,893,776.14,Paid,Duplicate Claim,38
+2025-11-05,Dr. Ali,Cigna,811,695.5,Paid,Duplicate Claim,62
+2026-02-28,Dr. Ali,Cigna,1084,1024.62,Paid,,112
+2026-05-19,Dr. Fatima,UnitedHealth,1447,0.0,Pending,,92
+2025-07-27,Dr. Ahmed,Medicaid,2028,1921.1,Paid,Prior Authorization,1
+2026-05-09,Dr. Hassan,Medicaid,2961,2466.82,Paid,Prior Authorization,57
+2026-07-18,Dr. Fatima,Aetna,1954,1652.07,Paid,Coding Error,9
+2026-05-27,Dr. Fatima,UnitedHealth,301,0.0,Pending,Missing Documentation,35
+2026-06-30,Dr. Khan,UnitedHealth,674,655.6,Paid,,91
+2025-12-19,Dr. Ali,Medicaid,2787,2481.79,Paid,Duplicate Claim,25
+2025-08-31,Dr. Ahmed,Aetna,2090,1686.16,Paid,Eligibility,26
+2025-10-03,Dr. Ahmed,Cigna,2303,2079.69,Paid,Missing Documentation,49
+2026-06-19,Dr. Fatima,Aetna,247,201.82,Paid,Prior Authorization,1
+2026-04-24,Dr. Ali,Blue Cross,1859,1766.04,Paid,,45
+2026-02-20,Dr. Khan,Aetna,1600,1460.75,Paid,,47
+2025-10-21,Dr. Ali,Cigna,293,262.59,Paid,,8
+2025-09-18,Dr. Khan,UnitedHealth,154,0.0,Denied,,110
+2025-10-05,Dr. Hassan,UnitedHealth,2309,1858.92,Paid,Prior Authorization,93
+2025-12-09,Dr. Ali,Medicare,932,792.92,Paid,Duplicate Claim,54
+2025-10-30,Dr. Ali,Blue Cross,2908,0.0,Pending,,92
+2026-02-28,Dr. Ali,Cigna,1387,1177.06,Paid,,37
+2025-11-01,Dr. Khan,UnitedHealth,281,241.27,Paid,Prior Authorization,33
+2026-03-09,Dr. Fatima,Blue Cross,2298,0.0,Pending,,29
+2026-05-23,Dr. Fatima,Cigna,2847,2796.11,Paid,,67
+2025-12-03,Dr. Fatima,Medicaid,570,550.69,Paid,Missing Documentation,98
+2026-07-21,Dr. Hassan,Aetna,1176,1163.88,Paid,Duplicate Claim,59
+2026-05-07,Dr. Ahmed,Medicaid,227,203.61,Paid,Missing Documentation,40
+2026-03-18,Dr. Ali,Medicaid,336,283.45,Paid,,26
+2026-04-10,Dr. Khan,Medicare,541,0.0,Denied,Eligibility,18
+2026-03-19,Dr. Khan,Aetna,2275,2082.31,Paid,Coding Error,25
+2026-05-20,Dr. Fatima,Blue Cross,1501,1232.79,Paid,Missing Documentation,31
+2026-04-18,Dr. Fatima,Aetna,745,633.36,Paid,Coding Error,71
+2026-06-14,Dr. Fatima,Cigna,1808,0.0,Pending,,54
+2026-04-30,Dr. Ali,UnitedHealth,1486,1215.65,Paid,Coding Error,11
+2025-07-26,Dr. Ali,Blue Cross,1419,1395.02,Paid,Eligibility,98
+2025-12-01,Dr. Fatima,Aetna,154,152.05,Paid,,111
+2026-06-30,Dr. Ahmed,Medicaid,1862,0.0,Pending,,73
+2026-03-07,Dr. Ahmed,Aetna,253,219.83,Paid,Missing Documentation,61
+2026-07-01,Dr. Ali,Blue Cross,1038,925.83,Paid,,101
+2026-03-22,Dr. Khan,Cigna,207,176.87,Paid,,101
+2025-08-06,Dr. Ahmed,Cigna,2964,2934.5,Paid,Duplicate Claim,83
+2026-05-20,Dr. Fatima,Medicaid,1899,1807.48,Paid,Eligibility,72
+2025-12-31,Dr. Khan,Aetna,2613,2206.0,Paid,Prior Authorization,17
+2026-06-11,Dr. Fatima,Aetna,1917,1884.6,Paid,,48
+2026-06-25,Dr. Hassan,Blue Cross,1621,1554.65,Paid,,59
+2026-01-30,Dr. Ali,Cigna,714,656.35,Paid,,3
+2025-11-05,Dr. Hassan,Aetna,2952,2621.99,Paid,,93
+2025-12-23,Dr. Fatima,UnitedHealth,1020,922.11,Paid,,55
+2025-09-13,Dr. Ali,Medicare,838,0.0,Pending,,32
+2026-03-31,Dr. Hassan,Medicare,1731,0.0,Pending,,93
+2026-07-02,Dr. Hassan,Aetna,417,385.93,Paid,Missing Documentation,103
+2026-04-13,Dr. Ali,Medicare,439,372.16,Paid,Duplicate Claim,30
+2026-05-09,Dr. Ahmed,Aetna,2133,1806.06,Paid,Coding Error,110
+2026-03-23,Dr. Hassan,Cigna,2098,1839.66,Paid,Coding Error,61
+2026-02-13,Dr. Ali,Medicaid,1038,1034.33,Paid,,25
+2026-07-10,Dr. Fatima,Medicaid,2711,2386.54,Paid,Coding Error,115
+2025-11-28,Dr. Khan,Aetna,1489,1243.77,Paid,,3
+2026-01-17,Dr. Ahmed,Aetna,2011,1632.06,Paid,,20
+2026-01-28,Dr. Ali,UnitedHealth,2013,1715.17,Paid,,62
+2026-07-13,Dr. Ali,Medicaid,2363,0.0,Pending,Duplicate Claim,111
+2026-04-04,Dr. Fatima,UnitedHealth,2476,0.0,Pending,Missing Documentation,56
+2026-07-11,Dr. Ahmed,UnitedHealth,2782,2720.1,Paid,Missing Documentation,79
+2026-04-29,Dr. Ali,Blue Cross,139,0.0,Denied,,88
+2026-06-22,Dr. Khan,UnitedHealth,1074,1008.64,Paid,Eligibility,37
+2026-06-05,Dr. Ahmed,UnitedHealth,1811,1476.37,Paid,Duplicate Claim,45
+2025-10-28,Dr. Ali,UnitedHealth,2371,2326.67,Paid,Duplicate Claim,91
+2025-12-13,Dr. Ali,Cigna,2096,2045.12,Paid,,59
+2025-09-11,Dr. Ahmed,Medicare,2963,2866.41,Paid,,63
+2026-06-25,Dr. Fatima,UnitedHealth,2569,2508.19,Paid,Missing Documentation,115
+2025-11-18,Dr. Khan,Blue Cross,1154,0.0,Pending,Coding Error,30
+2025-12-02,Dr. Fatima,Medicare,1674,1613.06,Paid,Prior Authorization,66
+2025-12-11,Dr. Ahmed,Aetna,1347,1165.54,Paid,Duplicate Claim,95
+2026-04-10,Dr. Ali,Medicaid,799,770.02,Paid,Prior Authorization,74
+2025-09-15,Dr. Hassan,Cigna,1356,0.0,Denied,Coding Error,93
+2026-04-03,Dr. Hassan,UnitedHealth,377,0.0,Denied,,91
+2026-02-01,Dr. Khan,Medicaid,2339,1902.71,Paid,,22
+2026-04-05,Dr. Fatima,Cigna,573,556.09,Paid,,99
+2025-10-23,Dr. Ali,Aetna,1047,842.75,Paid,Eligibility,111
+2025-09-22,Dr. Ali,UnitedHealth,2226,0.0,Pending,Prior Authorization,26
+2025-10-15,Dr. Ali,Medicare,1553,1535.7,Paid,Missing Documentation,39
+2026-06-23,Dr. Ali,Cigna,986,0.0,Pending,,47
+2025-11-27,Dr. Ali,Aetna,1073,886.58,Paid,Duplicate Claim,92
+2026-05-23,Dr. Fatima,Blue Cross,1088,0.0,Denied,,6
+2026-04-28,Dr. Ahmed,UnitedHealth,1782,1776.29,Paid,Eligibility,15
+2025-10-24,Dr. Hassan,UnitedHealth,2080,2025.14,Paid,Duplicate Claim,60
+2026-07-08,Dr. Ali,Medicaid,2577,2108.59,Paid,,116
+2025-08-21,Dr. Fatima,Cigna,2346,1938.38,Paid,,20
+2026-03-22,Dr. Ahmed,Medicaid,626,515.49,Paid,,100
+2026-01-09,Dr. Fatima,Medicare,620,556.96,Paid,,88
+2026-06-10,Dr. Fatima,UnitedHealth,683,608.58,Paid,,110
+2026-02-18,Dr. Ahmed,Aetna,706,657.57,Paid,Eligibility,41
+2026-07-15,Dr. Ahmed,Aetna,1515,1439.0,Paid,Missing Documentation,46
+2026-05-21,Dr. Hassan,Cigna,1795,1609.17,Paid,,74
+2026-01-27,Dr. Khan,Aetna,1035,895.58,Paid,,105
+2025-09-06,Dr. Khan,Medicaid,2049,1671.4,Paid,Prior Authorization,90
+2026-02-17,Dr. Khan,Cigna,1809,1744.4,Paid,,104
+2026-05-08,Dr. Ahmed,Medicaid,2094,2050.54,Paid,Missing Documentation,103
+2025-11-26,Dr. Khan,Cigna,2370,2232.09,Paid,,62
+2025-10-19,Dr. Ali,Cigna,210,0.0,Pending,,6
+2026-02-04,Dr. Ahmed,Cigna,121,112.37,Paid,,118
+2025-12-11,Dr. Ali,UnitedHealth,2234,2001.34,Paid,,55
+2025-08-01,Dr. Fatima,Blue Cross,849,710.12,Paid,,70
+2026-05-10,Dr. Ali,Blue Cross,761,691.37,Paid,,35
+2026-05-10,Dr. Ahmed,Cigna,544,438.53,Paid,,94
+2026-07-08,Dr. Hassan,Medicare,1848,1752.9,Paid,,92
+2025-12-08,Dr. Khan,Aetna,1487,1339.74,Paid,,96
+2026-03-23,Dr. Hassan,UnitedHealth,2567,2256.66,Paid,,36
+2025-11-24,Dr. Khan,Medicaid,1897,1894.02,Paid,,109
+2025-12-17,Dr. Ali,UnitedHealth,629,595.43,Paid,Duplicate Claim,100
+2025-10-16,Dr. Khan,Medicare,2899,2685.95,Paid,Coding Error,38
+2025-12-12,Dr. Ahmed,Cigna,652,635.15,Paid,,103
+2026-06-21,Dr. Hassan,UnitedHealth,937,808.1,Paid,,101
+2026-02-08,Dr. Hassan,Medicare,360,343.69,Paid,Prior Authorization,47
+2025-09-07,Dr. Khan,Medicare,2434,1982.98,Paid,Missing Documentation,1
+2026-02-07,Dr. Ahmed,Aetna,2280,2105.42,Paid,Eligibility,84
+2026-01-11,Dr. Fatima,Cigna,1407,1332.82,Paid,Coding Error,49
+2025-11-06,Dr. Hassan,Medicaid,1755,0.0,Pending,,114
+2026-01-13,Dr. Hassan,UnitedHealth,2481,2248.37,Paid,,119
+2026-05-20,Dr. Fatima,Aetna,1158,1142.69,Paid,,51
+2026-07-09,Dr. Khan,Blue Cross,1329,1168.82,Paid,,89
+2026-03-20,Dr. Ali,UnitedHealth,1308,1112.91,Paid,Prior Authorization,44
+2026-04-16,Dr. Fatima,Cigna,1417,1142.09,Paid,,106
+2025-12-25,Dr. Ahmed,Medicare,991,985.04,Paid,Eligibility,5
+2025-09-27,Dr. Khan,Blue Cross,1618,1518.53,Paid,,82
+2026-05-08,Dr. Ahmed,Medicaid,402,324.04,Paid,,33
+2026-06-13,Dr. Fatima,Aetna,1410,1239.07,Paid,,114
+2025-11-09,Dr. Ahmed,Aetna,803,799.33,Paid,Missing Documentation,117
+2026-01-14,Dr. Khan,Medicare,2736,2248.5,Paid,Eligibility,110
+2026-07-10,Dr. Khan,Medicare,1767,1699.09,Paid,Missing Documentation,23
+2026-03-26,Dr. Ahmed,Medicaid,950,0.0,Pending,Eligibility,71
+2025-11-11,Dr. Khan,Medicare,1724,1596.5,Paid,,60
+2025-08-19,Dr. Ahmed,Blue Cross,2752,2332.34,Paid,Eligibility,90
+2025-10-01,Dr. Fatima,UnitedHealth,2989,2690.37,Paid,Duplicate Claim,48
+2025-12-09,Dr. Khan,Aetna,1573,1266.47,Paid,Coding Error,98
+2025-09-10,Dr. Ali,Medicaid,403,365.41,Paid,,108
+2026-05-08,Dr. Ali,Medicare,990,954.83,Paid,Missing Documentation,36
+2026-03-05,Dr. Fatima,Medicaid,814,683.3,Paid,,34
+2025-08-26,Dr. Hassan,Medicaid,1457,1240.42,Paid,,8
+2026-04-25,Dr. Ahmed,Medicare,205,193.36,Paid,,90
+2025-11-17,Dr. Khan,Medicare,449,420.36,Paid,Prior Authorization,63
+2025-10-02,Dr. Fatima,UnitedHealth,2459,0.0,Pending,Duplicate Claim,36
+2025-11-06,Dr. Ahmed,Cigna,1207,1160.17,Paid,Duplicate Claim,45
+2026-05-19,Dr. Fatima,Medicaid,1485,1188.77,Paid,Missing Documentation,26
+2026-04-04,Dr. Ahmed,Medicare,620,517.67,Paid,Duplicate Claim,24
+2026-04-13,Dr. Hassan,UnitedHealth,819,697.07,Paid,Duplicate Claim,19
+2026-05-24,Dr. Khan,Medicare,245,203.34,Paid,,99
+2025-11-12,Dr. Fatima,Blue Cross,1349,1223.64,Paid,Prior Authorization,32
+2025-10-05,Dr. Fatima,Aetna,1646,1445.49,Paid,Missing Documentation,2
+2026-04-15,Dr. Ali,UnitedHealth,1443,1355.02,Paid,Eligibility,39
+2025-11-06,Dr. Hassan,Medicaid,2606,0.0,Denied,,68
+2026-03-16,Dr. Fatima,Medicaid,1341,1315.66,Paid,,104
+2025-11-15,Dr. Ali,Aetna,1864,0.0,Pending,Duplicate Claim,97
+2026-06-22,Dr. Fatima,Aetna,2014,1859.79,Paid,,60
+2026-04-17,Dr. Khan,Blue Cross,2664,2472.28,Paid,Eligibility,44
+2026-01-28,Dr. Khan,Cigna,2528,2118.63,Paid,,102
+2025-10-26,Dr. Hassan,Medicaid,1332,0.0,Denied,,69
+2025-08-26,Dr. Khan,Medicaid,1968,1871.5,Paid,Missing Documentation,55
+2026-07-07,Dr. Ali,Medicaid,756,753.16,Paid,Prior Authorization,92
+2026-07-17,Dr. Hassan,Aetna,2774,2769.83,Paid,Missing Documentation,30
+2026-03-27,Dr. Ahmed,Medicare,248,211.15,Paid,Eligibility,116
+2026-06-09,Dr. Khan,Medicare,2885,2375.88,Paid,,105
+2026-04-12,Dr. Ahmed,Blue Cross,440,373.04,Paid,,52
+2026-05-16,Dr. Ali,Medicaid,1825,1679.22,Paid,Eligibility,60
+2025-11-12,Dr. Khan,Medicaid,343,338.24,Paid,,45
+2026-04-28,Dr. Ali,Cigna,1926,1745.91,Paid,Missing Documentation,15
+2025-08-30,Dr. Ali,UnitedHealth,1528,1269.4,Paid,,82
+2026-04-24,Dr. Ahmed,Medicare,365,0.0,Pending,Eligibility,33
+2026-05-26,Dr. Fatima,Cigna,263,217.72,Paid,,99
+2026-01-13,Dr. Fatima,Medicare,2060,0.0,Pending,,8
+2026-04-24,Dr. Hassan,Cigna,1063,1055.16,Paid,,18
+2026-06-24,Dr. Fatima,Blue Cross,1951,0.0,Pending,,60
+2026-02-11,Dr. Ali,UnitedHealth,2810,2282.48,Paid,Missing Documentation,2
+2026-01-22,Dr. Fatima,Aetna,2529,0.0,Denied,Prior Authorization,83
+2026-01-15,Dr. Ali,Cigna,1222,1168.89,Paid,,4
+2026-04-03,Dr. Ahmed,Medicare,1895,0.0,Denied,Prior Authorization,52
+2026-02-25,Dr. Khan,Medicare,919,891.07,Paid,,63
+2025-10-15,Dr. Ali,Cigna,1697,1477.83,Paid,Eligibility,14
+2026-02-20,Dr. Khan,Medicaid,2602,2481.95,Paid,Coding Error,118
+2026-07-11,Dr. Khan,Medicare,841,800.68,Paid,,13
+2025-09-07,Dr. Fatima,Medicare,2360,0.0,Pending,Coding Error,82
+2025-08-03,Dr. Hassan,Aetna,2120,0.0,Denied,,113
+2025-08-30,Dr. Fatima,UnitedHealth,799,718.99,Paid,,34
+2025-08-31,Dr. Ali,Aetna,1687,1569.49,Paid,,29
+2026-01-23,Dr. Fatima,Aetna,2701,0.0,Pending,Missing Documentation,64
+2026-01-07,Dr. Khan,Cigna,116,114.67,Paid,,10
+2025-10-04,Dr. Fatima,Cigna,341,334.3,Paid,Prior Authorization,34
+2026-02-13,Dr. Ahmed,Aetna,875,0.0,Pending,Prior Authorization,88
+2025-11-09,Dr. Fatima,Medicare,2614,2607.87,Paid,Duplicate Claim,87
+2026-02-25,Dr. Ali,Aetna,2190,2103.33,Paid,Coding Error,20
+2025-08-06,Dr. Hassan,Blue Cross,2424,2163.15,Paid,,15
+2025-07-30,Dr. Ali,UnitedHealth,1334,1116.61,Paid,Coding Error,5
+2025-09-04,Dr. Khan,Medicaid,2497,0.0,Pending,,95
+2026-05-14,Dr. Khan,Blue Cross,459,402.26,Paid,,36
+2026-01-18,Dr. Khan,Medicaid,2983,2770.55,Paid,,10
+2025-12-09,Dr. Khan,Medicaid,2296,2054.62,Paid,Coding Error,32
+2025-09-16,Dr. Khan,Blue Cross,2498,2306.4,Paid,,40
+2026-03-04,Dr. Hassan,UnitedHealth,2330,2039.21,Paid,Missing Documentation,114
+2025-11-26,Dr. Hassan,Blue Cross,2937,2894.89,Paid,,21
+2025-11-23,Dr. Ahmed,Cigna,2269,0.0,Pending,Missing Documentation,47
+2025-11-16,Dr. Hassan,Blue Cross,2296,2048.28,Paid,Eligibility,22
+2026-02-10,Dr. Fatima,UnitedHealth,334,303.24,Paid,,29
+2026-05-10,Dr. Ali,Cigna,312,300.63,Paid,Eligibility,43
+2026-04-29,Dr. Ali,Medicare,2568,2315.49,Paid,Prior Authorization,108
+2026-05-11,Dr. Khan,UnitedHealth,1404,1168.15,Paid,Duplicate Claim,1
+2026-07-13,Dr. Ali,UnitedHealth,1999,1995.73,Paid,,107
+2026-02-09,Dr. Ali,Blue Cross,2620,2480.13,Paid,,41
+2025-08-26,Dr. Hassan,Cigna,2259,0.0,Pending,Eligibility,106
+2025-08-14,Dr. Hassan,Aetna,2749,0.0,Pending,Missing Documentation,34
+2026-01-18,Dr. Ali,Medicare,2734,2647.59,Paid,,111
+2026-03-28,Dr. Ali,UnitedHealth,1504,1437.94,Paid,Coding Error,102
+2025-12-12,Dr. Khan,Medicaid,1592,1330.39,Paid,,60
+2026-06-30,Dr. Hassan,Medicare,1180,1038.95,Paid,,88
+2025-09-06,Dr. Khan,Medicaid,435,409.16,Paid,,19
+2026-06-23,Dr. Ali,Medicaid,2306,1993.36,Paid,Duplicate Claim,109
+2025-08-20,Dr. Fatima,Cigna,1199,0.0,Pending,,48
+2026-06-15,Dr. Ahmed,UnitedHealth,839,794.62,Paid,,113
+2026-03-02,Dr. Ali,Aetna,2910,0.0,Pending,Eligibility,45
+2025-09-08,Dr. Ali,Medicaid,260,241.08,Paid,Prior Authorization,9
+2026-02-05,Dr. Fatima,UnitedHealth,701,586.66,Paid,,3
+2026-03-25,Dr. Fatima,Medicaid,1072,983.2,Paid,,109
+2026-06-06,Dr. Khan,Blue Cross,2710,0.0,Denied,,69
+2025-08-08,Dr. Fatima,UnitedHealth,1472,1319.18,Paid,Coding Error,100
+2026-05-22,Dr. Khan,Blue Cross,1725,1631.14,Paid,,24
+2026-04-22,Dr. Hassan,Cigna,2759,2294.89,Paid,Missing Documentation,31
+2025-11-27,Dr. Hassan,UnitedHealth,1719,1704.08,Paid,Eligibility,92
+2026-06-25,Dr. Khan,Medicaid,1002,983.21,Paid,Missing Documentation,77
+2025-12-29,Dr. Ali,Cigna,681,611.21,Paid,,107
+2026-06-19,Dr. Ali,Medicaid,1564,1349.79,Paid,,32
+2026-04-26,Dr. Fatima,UnitedHealth,1271,1241.04,Paid,Duplicate Claim,14
+2026-05-31,Dr. Fatima,Blue Cross,1436,1430.13,Paid,Prior Authorization,90
+2026-05-04,Dr. Hassan,Aetna,2452,2438.27,Paid,Missing Documentation,33
+2026-04-03,Dr. Ahmed,Aetna,728,618.94,Paid,Duplicate Claim,61
+2026-07-18,Dr. Khan,Blue Cross,672,0.0,Pending,Missing Documentation,39
+2026-03-27,Dr. Khan,Aetna,276,225.31,Paid,Coding Error,5
+2025-11-06,Dr. Khan,UnitedHealth,1637,1380.35,Paid,,39
+2025-10-29,Dr. Hassan,Blue Cross,687,620.02,Paid,,64
+2026-03-29,Dr. Fatima,Cigna,2390,0.0,Pending,,110
+2026-07-05,Dr. Fatima,Medicaid,983,826.68,Paid,,92
+2026-05-04,Dr. Khan,Cigna,881,784.31,Paid,,63
+2026-05-24,Dr. Hassan,Aetna,2213,1975.74,Paid,,99
+2026-07-23,Dr. Ali,UnitedHealth,873,777.27,Paid,,69
+2026-06-07,Dr. Hassan,Cigna,406,339.96,Paid,Missing Documentation,36
+2025-10-17,Dr. Khan,UnitedHealth,584,560.4,Paid,,70
+2025-11-14,Dr. Ali,Blue Cross,2533,2460.65,Paid,,107
+2026-04-10,Dr. Fatima,Cigna,139,127.83,Paid,Coding Error,4
+2026-02-26,Dr. Hassan,Blue Cross,2513,2453.9,Paid,Prior Authorization,16
+2025-12-06,Dr. Fatima,Medicaid,1252,1248.02,Paid,,4
+2025-11-01,Dr. Ali,Blue Cross,1023,0.0,Pending,Coding Error,25
+2025-11-26,Dr. Khan,UnitedHealth,2278,2150.14,Paid,Coding Error,99
+2026-03-02,Dr. Khan,Medicaid,2848,2447.28,Paid,,60
+2025-08-14,Dr. Hassan,Cigna,1518,0.0,Denied,Missing Documentation,85
+2025-10-21,Dr. Hassan,Cigna,1349,0.0,Pending,Coding Error,28
+2026-05-15,Dr. Hassan,UnitedHealth,1341,1137.13,Paid,Missing Documentation,51
+2026-06-02,Dr. Ahmed,Medicare,1042,961.51,Paid,,33
+2025-09-23,Dr. Ali,Cigna,823,675.9,Paid,Prior Authorization,70
+2025-09-02,Dr. Ali,Cigna,2348,2344.12,Paid,Missing Documentation,47
+2026-05-02,Dr. Ahmed,Medicare,1929,1569.63,Paid,Coding Error,46
+2025-12-14,Dr. Ahmed,Blue Cross,2119,0.0,Pending,,115
+2026-02-03,Dr. Ali,UnitedHealth,745,679.51,Paid,Duplicate Claim,46
+2026-06-18,Dr. Ali,Blue Cross,2697,2363.44,Paid,,113
+2025-09-02,Dr. Ahmed,Blue Cross,380,306.07,Paid,,3
+2026-02-05,Dr. Fatima,Medicaid,1549,1499.26,Paid,Missing Documentation,119
+2026-02-19,Dr. Fatima,Medicare,732,713.37,Paid,,40
+2026-06-18,Dr. Hassan,Aetna,2612,2096.08,Paid,Coding Error,99
+2026-05-26,Dr. Hassan,Cigna,2481,2008.69,Paid,Duplicate Claim,2
+2026-04-16,Dr. Fatima,Medicaid,1721,0.0,Pending,,48
+2025-08-09,Dr. Khan,Medicare,1793,1530.42,Paid,Coding Error,69
+2026-05-04,Dr. Ali,Cigna,1427,0.0,Pending,,117
+2025-11-17,Dr. Ali,Aetna,2144,1729.2,Paid,,88
+2026-07-09,Dr. Hassan,Medicaid,2627,2373.47,Paid,Missing Documentation,19
+2025-09-26,Dr. Fatima,Blue Cross,2173,1812.53,Paid,Eligibility,20
+2026-06-12,Dr. Hassan,Cigna,604,511.88,Paid,,22
+2025-10-14,Dr. Khan,UnitedHealth,2223,2068.38,Paid,Prior Authorization,105
+2026-07-09,Dr. Ahmed,UnitedHealth,1892,1667.6,Paid,,61
+2025-11-07,Dr. Ali,Cigna,879,862.72,Paid,,57
+2026-06-24,Dr. Ali,Medicare,2240,2070.89,Paid,,56
+2025-12-14,Dr. Ahmed,Medicaid,1812,1451.6,Paid,Duplicate Claim,43
+2026-01-30,Dr. Fatima,Medicare,503,436.49,Paid,,64
+2025-08-03,Dr. Ahmed,Aetna,417,337.3,Paid,Duplicate Claim,37
+2026-02-18,Dr. Ali,Blue Cross,916,753.66,Paid,Prior Authorization,55
+2025-12-02,Dr. Ali,Blue Cross,1674,1574.32,Paid,,40
+2026-01-01,Dr. Fatima,Medicare,118,115.82,Paid,,45
+2025-11-22,Dr. Khan,Medicare,2749,0.0,Denied,Duplicate Claim,25
+2025-10-10,Dr. Ahmed,Cigna,958,903.89,Paid,,18
+2025-08-20,Dr. Khan,Medicare,1447,1289.63,Paid,,111
+2026-02-28,Dr. Hassan,UnitedHealth,2559,2507.98,Paid,,15
+2026-05-03,Dr. Fatima,Aetna,2188,0.0,Denied,,51
+2026-03-08,Dr. Ali,Medicaid,1966,1770.25,Paid,Missing Documentation,39
+2025-10-31,Dr. Fatima,UnitedHealth,1663,1542.56,Paid,Eligibility,3
+2026-04-27,Dr. Khan,Aetna,2035,0.0,Denied,Missing Documentation,12
+2026-01-16,Dr. Khan,Medicare,2566,2096.11,Paid,Coding Error,62
+2025-12-27,Dr. Ahmed,Medicaid,148,132.21,Paid,Coding Error,54
+2025-12-01,Dr. Ahmed,Medicare,1230,1149.55,Paid,Eligibility,30
+2025-07-28,Dr. Hassan,Aetna,1989,1770.26,Paid,Prior Authorization,104
+2025-11-10,Dr. Hassan,Cigna,2707,2365.95,Paid,,24
+2026-03-17,Dr. Hassan,Medicare,778,648.17,Paid,Duplicate Claim,65
+2026-01-24,Dr. Hassan,UnitedHealth,2706,2178.57,Paid,,43
+2025-07-27,Dr. Ali,Aetna,1602,0.0,Pending,,38
+2026-02-08,Dr. Hassan,Cigna,675,589.22,Paid,Eligibility,65
+2026-04-15,Dr. Fatima,Medicaid,1154,955.64,Paid,Duplicate Claim,88
+2026-06-01,Dr. Khan,Blue Cross,542,448.32,Paid,Eligibility,107
+2025-08-05,Dr. Ali,Medicare,2595,2281.23,Paid,Coding Error,30
+2025-11-26,Dr. Fatima,UnitedHealth,2632,0.0,Pending,Coding Error,35
+2026-06-21,Dr. Ahmed,Medicare,2793,2696.2,Paid,,17
+2025-08-06,Dr. Hassan,Medicare,2256,0.0,Denied,Coding Error,105
+2026-05-30,Dr. Fatima,Blue Cross,2452,2044.15,Paid,Prior Authorization,51
+2025-09-19,Dr. Fatima,Blue Cross,1677,0.0,Pending,,85
+2025-09-16,Dr. Hassan,Blue Cross,482,478.76,Paid,,92
+2026-02-24,Dr. Khan,Blue Cross,2082,1850.5,Paid,,51
+2025-09-04,Dr. Hassan,UnitedHealth,2656,0.0,Denied,Duplicate Claim,86
+2026-01-13,Dr. Ali,Medicare,1884,0.0,Pending,Prior Authorization,85
+2026-02-26,Dr. Hassan,Medicaid,2667,2387.26,Paid,,64
+2025-11-13,Dr. Hassan,Medicaid,1240,1079.66,Paid,Coding Error,118
+2026-07-22,Dr. Hassan,Aetna,2542,2062.96,Paid,Eligibility,17
+2026-04-22,Dr. Hassan,Cigna,982,978.27,Paid,Eligibility,55
+2025-07-24,Dr. Ali,Blue Cross,1351,1135.71,Paid,Missing Documentation,115
+2025-10-24,Dr. Ali,UnitedHealth,1814,0.0,Pending,,47
+2026-07-09,Dr. Ali,Aetna,2146,2062.99,Paid,Duplicate Claim,116
+2026-04-29,Dr. Ali,Medicaid,2484,0.0,Pending,,59
+2026-05-19,Dr. Khan,Medicaid,2984,2761.15,Paid,Eligibility,43
+2026-03-01,Dr. Hassan,UnitedHealth,1933,1795.55,Paid,Missing Documentation,24
+2026-07-18,Dr. Ali,Blue Cross,795,762.15,Paid,,8
+2026-07-22,Dr. Ali,Aetna,2941,0.0,Pending,,25
+2026-01-02,Dr. Fatima,Cigna,1672,1385.37,Paid,Missing Documentation,1
+2025-12-23,Dr. Ahmed,UnitedHealth,646,528.25,Paid,,30
+2025-10-26,Dr. Ali,Medicaid,2114,1838.68,Paid,,45
+2025-09-12,Dr. Ahmed,UnitedHealth,2230,1917.61,Paid,Eligibility,60
+2025-12-20,Dr. Hassan,UnitedHealth,2469,2174.14,Paid,Prior Authorization,67
+2026-02-28,Dr. Ali,Medicaid,1338,0.0,Denied,Prior Authorization,53
+2026-05-07,Dr. Fatima,Medicare,2468,2082.63,Paid,,53
+2026-05-06,Dr. Khan,UnitedHealth,1404,1372.74,Paid,,72
+2026-02-21,Dr. Khan,Cigna,1689,1581.79,Paid,,53
+2026-03-11,Dr. Hassan,Medicare,2555,2331.84,Paid,Prior Authorization,8
+2026-02-02,Dr. Khan,UnitedHealth,1589,1321.61,Paid,Duplicate Claim,98
+2025-11-20,Dr. Ahmed,Aetna,1198,1054.83,Paid,,96
+2025-10-02,Dr. Khan,Aetna,2441,0.0,Pending,Eligibility,69
+2025-09-04,Dr. Ahmed,Aetna,988,974.34,Paid,,9
+2025-12-30,Dr. Hassan,Cigna,2046,0.0,Pending,,15
+2025-09-21,Dr. Hassan,Blue Cross,918,901.47,Paid,Coding Error,17
+2025-09-07,Dr. Ali,Aetna,570,500.19,Paid,Duplicate Claim,55
+2025-10-11,Dr. Ali,Medicare,1005,855.1,Paid,Coding Error,33
+2025-09-14,Dr. Ahmed,Medicaid,622,0.0,Denied,Missing Documentation,21
+2026-02-21,Dr. Fatima,Medicaid,1846,1494.59,Paid,Prior Authorization,28
+2026-03-27,Dr. Khan,Medicaid,1123,1001.2,Paid,,108
+2025-12-30,Dr. Khan,Medicare,972,926.82,Paid,,31
+2025-09-13,Dr. Ahmed,Cigna,748,669.05,Paid,Prior Authorization,45
+2025-10-10,Dr. Hassan,UnitedHealth,1872,1548.74,Paid,,28
+2025-11-17,Dr. Ahmed,Cigna,2473,2173.83,Paid,Coding Error,107
+2026-03-11,Dr. Khan,Medicare,2374,2290.11,Paid,Coding Error,74
+2026-01-24,Dr. Khan,Medicaid,657,645.31,Paid,,100
+2026-01-29,Dr. Ahmed,Cigna,497,446.59,Paid,Eligibility,116
+2026-04-02,Dr. Hassan,UnitedHealth,640,635.33,Paid,Eligibility,65
+2026-03-06,Dr. Hassan,UnitedHealth,218,208.1,Paid,Eligibility,53
+2026-03-13,Dr. Khan,Medicare,1805,1735.38,Paid,Eligibility,7
+2025-08-23,Dr. Khan,Cigna,1859,1774.65,Paid,Missing Documentation,12
+2025-08-27,Dr. Fatima,Cigna,1651,1539.73,Paid,,73
+2025-12-29,Dr. Ahmed,Aetna,2307,0.0,Pending,Duplicate Claim,72
+2026-04-06,Dr. Ahmed,Medicare,1182,961.13,Paid,,98
+2026-03-02,Dr. Hassan,UnitedHealth,2559,2077.76,Paid,,90
+2026-01-14,Dr. Fatima,Cigna,1227,0.0,Denied,,75
+2025-08-14,Dr. Khan,Cigna,2687,2259.76,Paid,Prior Authorization,106
+2026-04-27,Dr. Ali,Medicare,125,0.0,Pending,,11
+2026-03-30,Dr. Hassan,Cigna,560,0.0,Pending,,49
+2026-02-23,Dr. Ahmed,Aetna,2711,2561.88,Paid,,26
+2025-09-11,Dr. Hassan,Cigna,1876,0.0,Denied,Missing Documentation,75
+2026-07-16,Dr. Ali,UnitedHealth,2395,2374.85,Paid,Coding Error,46
+2025-08-15,Dr. Khan,Medicaid,2600,2562.9,Paid,,94
+2025-10-04,Dr. Ali,Cigna,1641,1381.45,Paid,,81
+2025-11-15,Dr. Ali,Cigna,2478,0.0,Pending,Eligibility,41
+2025-10-05,Dr. Ali,UnitedHealth,2419,2176.25,Paid,Missing Documentation,76
+2025-10-19,Dr. Khan,UnitedHealth,1262,1241.65,Paid,Eligibility,4
+2026-02-15,Dr. Ali,Medicare,719,0.0,Pending,,17
+2026-04-26,Dr. Khan,Medicare,718,711.24,Paid,Duplicate Claim,94
+2025-11-26,Dr. Ahmed,Blue Cross,2119,1966.69,Paid,,88
+2025-10-27,Dr. Ahmed,Medicare,2901,2610.26,Paid,,101
+2025-12-18,Dr. Khan,Blue Cross,2318,2229.03,Paid,Eligibility,101
+2026-07-12,Dr. Khan,Cigna,448,417.75,Paid,Missing Documentation,54
+2026-03-02,Dr. Ahmed,Aetna,766,0.0,Denied,Prior Authorization,113
+2026-05-13,Dr. Ali,Aetna,1079,870.24,Paid,Prior Authorization,91
+2026-01-12,Dr. Fatima,Cigna,2865,2860.67,Paid,Coding Error,91
+2026-07-19,Dr. Khan,UnitedHealth,1205,1021.94,Paid,,116
+2025-11-09,Dr. Ahmed,Aetna,1389,0.0,Pending,Coding Error,65
+2026-05-24,Dr. Ahmed,Medicare,1524,1426.33,Paid,,69
+2026-03-06,Dr. Hassan,UnitedHealth,750,664.13,Paid,,19
+2026-07-06,Dr. Khan,Medicare,1232,1205.9,Paid,Coding Error,78
+2025-12-30,Dr. Hassan,UnitedHealth,2279,0.0,Pending,,109
+2025-10-21,Dr. Hassan,Medicaid,320,274.92,Paid,Missing Documentation,91
+2026-01-13,Dr. Ahmed,Blue Cross,2983,2911.11,Paid,Duplicate Claim,27
+2025-11-24,Dr. Fatima,UnitedHealth,139,131.4,Paid,,67
+2025-09-25,Dr. Fatima,Cigna,389,0.0,Pending,Prior Authorization,109
+2026-03-14,Dr. Ahmed,Aetna,680,618.35,Paid,Missing Documentation,60
+2026-06-14,Dr. Fatima,Medicare,2713,2562.77,Paid,,3
+2025-09-17,Dr. Hassan,Cigna,483,456.85,Paid,Eligibility,115
+2025-10-01,Dr. Fatima,UnitedHealth,1634,1443.13,Paid,,30
+2025-12-26,Dr. Ali,Blue Cross,2849,0.0,Pending,Missing Documentation,112
+2026-06-27,Dr. Fatima,Medicaid,2009,1695.79,Paid,Coding Error,72
+2026-01-26,Dr. Khan,UnitedHealth,2900,2560.39,Paid,,9
+2025-10-13,Dr. Khan,Medicaid,1076,0.0,Denied,Missing Documentation,17
+2026-06-01,Dr. Fatima,Medicare,1683,1586.88,Paid,Eligibility,113
+2025-10-19,Dr. Ahmed,Aetna,1956,1632.12,Paid,Duplicate Claim,66
+2026-03-07,Dr. Ahmed,UnitedHealth,203,166.39,Paid,Prior Authorization,57
+2026-06-16,Dr. Hassan,Cigna,862,714.11,Paid,Coding Error,3
+2026-02-13,Dr. Ahmed,Aetna,660,602.19,Paid,,90
+2026-07-14,Dr. Ahmed,Blue Cross,1667,1635.85,Paid,,35
+2026-03-01,Dr. Ahmed,Medicaid,2635,0.0,Pending,,61
+2026-07-20,Dr. Ali,Medicaid,858,807.36,Paid,Missing Documentation,97
+2025-11-23,Dr. Ali,Medicaid,1291,1163.14,Paid,Duplicate Claim,13
+2025-12-13,Dr. Ali,Blue Cross,1955,1936.41,Paid,Missing Documentation,20
+2026-05-22,Dr. Ali,Aetna,551,475.68,Paid,Coding Error,72
+2025-08-12,Dr. Khan,Blue Cross,2666,2631.5,Paid,,82
+2026-03-12,Dr. Ahmed,Cigna,599,485.41,Paid,Coding Error,75
+2026-03-04,Dr. Ahmed,Medicare,2024,1870.7,Paid,Missing Documentation,28
+2025-09-05,Dr. Ahmed,Medicaid,2993,2542.33,Paid,,112
+2025-08-04,Dr. Hassan,Aetna,118,96.1,Paid,,54
+2026-04-09,Dr. Ali,Medicaid,2538,2131.41,Paid,Duplicate Claim,20
+2025-08-14,Dr. Ahmed,UnitedHealth,1915,1697.46,Paid,,66
+2026-07-12,Dr. Ahmed,Medicare,617,614.4,Paid,,90
+2025-10-23,Dr. Hassan,Blue Cross,1591,1383.06,Paid,,10
+2025-09-09,Dr. Hassan,UnitedHealth,2245,1916.57,Paid,Eligibility,22
+2025-09-03,Dr. Fatima,Medicaid,253,206.3,Paid,,91
+2025-10-07,Dr. Hassan,Blue Cross,2700,2483.48,Paid,,30
+2025-11-12,Dr. Ali,UnitedHealth,2949,2579.35,Paid,Missing Documentation,97
+2026-02-22,Dr. Ali,Cigna,659,596.49,Paid,,29
+2025-12-23,Dr. Fatima,Blue Cross,1188,1057.1,Paid,Eligibility,51
+2026-05-09,Dr. Hassan,UnitedHealth,659,628.99,Paid,Missing Documentation,109
+2025-10-14,Dr. Ahmed,Aetna,383,335.94,Paid,,83
+2026-01-18,Dr. Khan,Medicaid,2020,1909.19,Paid,Eligibility,17
+2026-01-06,Dr. Ali,Cigna,941,834.4,Paid,Coding Error,25
+2026-02-04,Dr. Ahmed,Blue Cross,466,413.29,Paid,,92
+2026-01-21,Dr. Hassan,Medicare,142,120.47,Paid,Duplicate Claim,39
+2025-08-11,Dr. Hassan,Aetna,468,0.0,Pending,Missing Documentation,110
+2026-01-16,Dr. Ali,Medicare,168,165.02,Paid,,67
+2026-07-04,Dr. Khan,UnitedHealth,1437,1320.55,Paid,Eligibility,19
+2025-08-25,Dr. Fatima,Medicaid,1287,0.0,Denied,,74
+2026-06-12,Dr. Ali,Medicaid,969,918.21,Paid,,73
+2026-07-07,Dr. Ahmed,Cigna,2656,2410.76,Paid,,54
+2026-02-23,Dr. Fatima,UnitedHealth,2696,2581.36,Paid,Eligibility,40
+2025-12-04,Dr. Hassan,UnitedHealth,2567,2127.73,Paid,,63
+2026-05-18,Dr. Hassan,Medicaid,2659,2138.85,Paid,Prior Authorization,61
+2026-05-12,Dr. Ahmed,Blue Cross,974,959.8,Paid,Eligibility,114
+2026-05-28,Dr. Fatima,Medicare,220,183.02,Paid,,74
+2025-08-04,Dr. Hassan,Blue Cross,2168,2046.84,Paid,,68
+2026-06-09,Dr. Ali,UnitedHealth,168,165.47,Paid,Prior Authorization,25
+2026-02-25,Dr. Ahmed,Medicare,376,306.56,Paid,Prior Authorization,46
+2025-09-25,Dr. Fatima,Cigna,2691,0.0,Pending,,106
+2026-07-04,Dr. Ahmed,Aetna,413,0.0,Denied,Coding Error,61
+2026-06-25,Dr. Ahmed,Medicaid,236,227.92,Paid,Coding Error,42
+2026-06-11,Dr. Ali,Medicaid,186,0.0,Pending,Missing Documentation,86
+2025-12-13,Dr. Fatima,Medicaid,2604,2434.03,Paid,,111
+2026-04-23,Dr. Fatima,UnitedHealth,1747,1455.35,Paid,Coding Error,6
+2026-05-04,Dr. Ahmed,Medicaid,2767,2302.9,Paid,,107
+2026-06-23,Dr. Khan,UnitedHealth,2563,0.0,Pending,,36
+2026-04-04,Dr. Ali,Medicaid,773,712.36,Paid,Duplicate Claim,72
+2026-05-21,Dr. Ahmed,Blue Cross,2510,2216.72,Paid,,74
+2026-05-17,Dr. Khan,UnitedHealth,2059,1717.9,Paid,,13
+2025-12-30,Dr. Fatima,Aetna,2905,2336.86,Paid,Coding Error,64
+2026-02-27,Dr. Fatima,Medicare,394,369.74,Paid,,67
+2025-09-02,Dr. Ahmed,Aetna,1130,1119.03,Paid,,43
+2025-10-18,Dr. Fatima,Blue Cross,350,319.25,Paid,Missing Documentation,54
+2025-10-04,Dr. Fatima,Aetna,2815,2675.74,Paid,Eligibility,80
+2025-11-14,Dr. Ahmed,Medicaid,2572,2229.22,Paid,,19
+2025-11-30,Dr. Ali,Medicare,1061,951.58,Paid,Missing Documentation,104
+2026-05-22,Dr. Khan,Medicaid,2805,0.0,Denied,Eligibility,76
+2025-12-05,Dr. Hassan,Cigna,2898,2879.49,Paid,Missing Documentation,49
+2026-05-26,Dr. Hassan,Medicare,784,707.7,Paid,,83
+2026-03-24,Dr. Ali,Medicaid,102,89.2,Paid,,60
+2025-09-22,Dr. Ali,Medicaid,2007,1746.07,Paid,,62
+2025-12-04,Dr. Hassan,UnitedHealth,1379,1104.67,Paid,Duplicate Claim,79
+2026-06-01,Dr. Khan,UnitedHealth,1171,1116.32,Paid,Coding Error,112
+2026-02-20,Dr. Khan,Cigna,1953,0.0,Pending,,99
+2026-06-12,Dr. Ali,Cigna,2632,2481.05,Paid,Missing Documentation,92
+2025-12-11,Dr. Ali,Medicare,2025,1987.83,Paid,,106
+2026-04-19,Dr. Khan,Medicare,1880,1562.84,Paid,Eligibility,16
+2026-01-28,Dr. Ali,UnitedHealth,715,606.53,Paid,,90
+2026-01-28,Dr. Khan,Medicaid,2661,2365.02,Paid,,62
+2026-05-10,Dr. Fatima,Aetna,2652,2619.68,Paid,Coding Error,110
+2026-07-13,Dr. Fatima,Cigna,1022,871.69,Paid,Prior Authorization,119
+2026-04-17,Dr. Khan,Medicare,937,0.0,Pending,,76
+2025-09-13,Dr. Fatima,Medicare,260,209.62,Paid,,79
+2026-06-02,Dr. Ahmed,Medicaid,1640,1593.46,Paid,Duplicate Claim,104
+2026-01-04,Dr. Khan,UnitedHealth,554,0.0,Denied,Duplicate Claim,75
+2026-05-29,Dr. Ali,Cigna,1305,1296.46,Paid,,109
+2025-10-13,Dr. Fatima,Aetna,1798,1547.73,Paid,,116
+2025-11-21,Dr. Ali,Medicaid,2606,2493.28,Paid,Coding Error,35
+2026-05-28,Dr. Khan,Aetna,2745,2615.63,Paid,,32
+2025-08-01,Dr. Ali,Medicare,2354,1885.72,Paid,Coding Error,10
+2026-06-12,Dr. Ali,Blue Cross,438,437.18,Paid,,74
+2025-09-04,Dr. Ali,Blue Cross,672,568.36,Paid,,55
+2025-08-15,Dr. Ali,Medicare,2687,2263.33,Paid,,4
+2025-08-22,Dr. Hassan,Medicaid,1881,0.0,Pending,Missing Documentation,14
+2026-07-02,Dr. Fatima,UnitedHealth,1838,0.0,Denied,Prior Authorization,54
+2025-10-20,Dr. Hassan,Medicare,1845,1817.34,Paid,Prior Authorization,41
+2026-06-01,Dr. Khan,Medicaid,670,622.92,Paid,,65
+2026-05-09,Dr. Hassan,Medicaid,2986,2495.91,Paid,Eligibility,114
+2026-02-07,Dr. Khan,Cigna,2868,0.0,Pending,,112
+2026-03-22,Dr. Hassan,Medicaid,474,422.2,Paid,Eligibility,3
+2026-06-06,Dr. Fatima,Aetna,189,157.01,Paid,Eligibility,66
+2026-05-22,Dr. Hassan,Medicare,1710,1489.38,Paid,Duplicate Claim,90
+2026-03-20,Dr. Hassan,Cigna,1025,0.0,Denied,Prior Authorization,16
+2025-12-17,Dr. Fatima,Blue Cross,1041,876.78,Paid,Duplicate Claim,48
+2026-02-03,Dr. Ahmed,Blue Cross,2302,1973.51,Paid,,84
+2025-09-08,Dr. Ahmed,Medicare,1928,0.0,Pending,,103
+2025-08-05,Dr. Ahmed,Aetna,1432,0.0,Denied,,110
+2026-01-06,Dr. Hassan,UnitedHealth,1646,0.0,Pending,,20
+2026-03-31,Dr. Hassan,Medicare,149,122.21,Paid,,3
+2026-02-23,Dr. Hassan,Blue Cross,2140,0.0,Denied,Duplicate Claim,93
+2026-05-20,Dr. Hassan,Aetna,961,927.68,Paid,,13
+2025-11-07,Dr. Khan,Medicaid,135,129.84,Paid,Duplicate Claim,87
+2026-06-13,Dr. Hassan,Medicaid,2937,2527.24,Paid,Coding Error,64
+2026-06-02,Dr. Ali,Cigna,585,0.0,Pending,Prior Authorization,17
+2026-05-09,Dr. Khan,Medicare,2882,2779.62,Paid,Duplicate Claim,98
+2025-08-31,Dr. Khan,Blue Cross,876,761.61,Paid,Duplicate Claim,17
+2026-02-14,Dr. Fatima,Aetna,1522,1231.29,Paid,Missing Documentation,40
+2025-10-05,Dr. Fatima,Aetna,2807,2539.08,Paid,Eligibility,83
+2025-08-25,Dr. Khan,Cigna,2591,2518.35,Paid,Missing Documentation,96
+2026-07-20,Dr. Fatima,Aetna,2977,0.0,Denied,,101
+2025-08-06,Dr. Khan,Medicaid,1513,1385.7,Paid,Eligibility,4
+2025-12-03,Dr. Ali,Medicaid,2143,1873.91,Paid,Eligibility,92
+2026-04-13,Dr. Fatima,Medicaid,152,128.25,Paid,,80
+2025-12-23,Dr. Ahmed,Medicaid,505,462.24,Paid,,10
+2025-09-14,Dr. Hassan,Aetna,486,0.0,Pending,Coding Error,62
+2026-02-11,Dr. Fatima,UnitedHealth,407,343.55,Paid,,103
+2025-08-30,Dr. Khan,UnitedHealth,482,385.66,Paid,,20
+2025-07-24,Dr. Ahmed,Aetna,2647,2198.09,Paid,,24
+2025-10-20,Dr. Fatima,Medicaid,1451,0.0,Denied,Duplicate Claim,8
+2026-04-01,Dr. Fatima,Aetna,414,406.42,Paid,Missing Documentation,61
+2025-11-16,Dr. Ahmed,Medicaid,986,873.59,Paid,Prior Authorization,13
+2025-12-12,Dr. Khan,Medicare,2755,2594.18,Paid,Coding Error,94
+2025-12-28,Dr. Ali,Cigna,2808,2609.53,Paid,Missing Documentation,52
+2026-04-06,Dr. Hassan,Medicaid,2861,2359.41,Paid,,57
+2026-06-13,Dr. Ahmed,Cigna,2455,0.0,Denied,,75
+2025-09-01,Dr. Hassan,Aetna,1221,1058.85,Paid,Missing Documentation,57
+2025-10-22,Dr. Hassan,Aetna,171,0.0,Denied,Duplicate Claim,42
+2026-07-02,Dr. Ahmed,Aetna,982,810.25,Paid,Coding Error,85
+2026-03-18,Dr. Khan,Medicaid,523,0.0,Denied,Coding Error,109
+2026-04-12,Dr. Ahmed,Blue Cross,291,237.9,Paid,,11
+2025-08-03,Dr. Ali,Cigna,916,786.62,Paid,,6
+2025-09-22,Dr. Fatima,Blue Cross,2331,2260.19,Paid,,68
+2026-05-22,Dr. Hassan,UnitedHealth,2324,2306.97,Paid,,105
+2025-07-28,Dr. Khan,Cigna,1351,1348.33,Paid,,110
+2025-12-19,Dr. Khan,Aetna,1819,1550.17,Paid,Duplicate Claim,88
+2026-01-31,Dr. Hassan,Blue Cross,2517,0.0,Denied,Missing Documentation,111
+2025-07-25,Dr. Fatima,Aetna,283,234.92,Paid,,67
+2026-06-19,Dr. Ahmed,UnitedHealth,1373,1114.9,Paid,,64
+2025-11-15,Dr. Khan,Blue Cross,251,0.0,Pending,,15
+2025-09-22,Dr. Khan,UnitedHealth,1286,1199.46,Paid,Prior Authorization,95
+2026-03-25,Dr. Hassan,Aetna,533,0.0,Pending,Eligibility,89
+2025-08-04,Dr. Ahmed,Cigna,1701,1477.19,Paid,,116
+2026-07-22,Dr. Fatima,UnitedHealth,1592,1442.82,Paid,,79
+2025-10-03,Dr. Khan,Medicare,1425,1306.33,Paid,Eligibility,113
+2026-05-27,Dr. Hassan,Blue Cross,974,921.99,Paid,,21
+2025-08-27,Dr. Ali,UnitedHealth,838,780.52,Paid,Missing Documentation,52
+2025-10-19,Dr. Fatima,UnitedHealth,1108,942.67,Paid,Coding Error,55
+2026-05-24,Dr. Fatima,Medicare,2696,2685.52,Paid,Missing Documentation,59
+2025-10-17,Dr. Hassan,Blue Cross,2899,0.0,Pending,Prior Authorization,90
+2026-01-28,Dr. Fatima,Medicare,2864,2460.95,Paid,Eligibility,92
+2025-10-22,Dr. Fatima,UnitedHealth,705,700.73,Paid,Prior Authorization,31
+2026-05-18,Dr. Fatima,Aetna,1687,1526.26,Paid,,63
+2025-08-25,Dr. Ahmed,Medicaid,2841,0.0,Pending,Eligibility,99
+2026-01-09,Dr. Ahmed,Aetna,2128,0.0,Pending,Eligibility,90
+2026-02-15,Dr. Fatima,Medicaid,1776,1586.57,Paid,,110
+2026-01-07,Dr. Fatima,Blue Cross,1362,1246.63,Paid,,31
+2025-11-03,Dr. Fatima,Medicaid,1368,1098.98,Paid,,23
+2025-11-05,Dr. Hassan,Medicaid,2053,1837.68,Paid,Eligibility,59
+2025-12-09,Dr. Ahmed,Medicaid,1571,1361.15,Paid,Prior Authorization,44
+2025-11-13,Dr. Ali,Aetna,118,95.44,Paid,,19
+2025-08-16,Dr. Hassan,Medicare,2039,1795.63,Paid,,71
+2026-06-29,Dr. Ali,Cigna,2510,0.0,Denied,Eligibility,58
+2025-08-21,Dr. Hassan,Blue Cross,1251,1018.34,Paid,,45
+2025-09-10,Dr. Ali,Medicaid,1407,1325.43,Paid,Duplicate Claim,24
+2026-04-17,Dr. Khan,Cigna,270,232.9,Paid,,103
+2026-05-10,Dr. Khan,Medicaid,1101,943.71,Paid,,114
+2025-11-19,Dr. Hassan,UnitedHealth,1320,0.0,Pending,Prior Authorization,69
+2025-08-14,Dr. Hassan,Cigna,2497,2419.43,Paid,Prior Authorization,6
+2026-02-16,Dr. Khan,Aetna,387,328.91,Paid,Coding Error,74
+2026-06-08,Dr. Ali,UnitedHealth,1335,1304.12,Paid,,96
+2026-01-06,Dr. Ali,Medicare,1511,1279.48,Paid,Eligibility,70
+2026-04-11,Dr. Ali,Medicare,1316,1258.96,Paid,,9
+2026-06-29,Dr. Ahmed,Blue Cross,2223,2084.31,Paid,Missing Documentation,73
+2025-08-21,Dr. Fatima,Cigna,1914,1870.79,Paid,Prior Authorization,30
+2025-12-12,Dr. Ahmed,UnitedHealth,2428,2025.41,Paid,Missing Documentation,110
+2025-09-23,Dr. Ahmed,Medicaid,1437,1380.95,Paid,,116
+2025-10-14,Dr. Ali,Medicare,2195,1858.64,Paid,Coding Error,86
+2025-07-25,Dr. Khan,Cigna,784,668.68,Paid,Missing Documentation,42
+2025-10-11,Dr. Ahmed,Blue Cross,1077,870.09,Paid,,99
+2026-01-17,Dr. Ahmed,Cigna,1112,1100.16,Paid,,103
+2026-01-17,Dr. Ali,Medicaid,1881,1608.34,Paid,Duplicate Claim,12
+2026-03-22,Dr. Ahmed,Medicare,240,0.0,Pending,,36
+2026-02-10,Dr. Hassan,Cigna,619,0.0,Denied,Eligibility,93
+2026-04-29,Dr. Khan,Medicare,175,149.79,Paid,,37
+2026-01-14,Dr. Hassan,Blue Cross,2944,2587.52,Paid,Coding Error,64
+2025-10-29,Dr. Hassan,Aetna,2312,1920.76,Paid,Eligibility,63
+2026-02-20,Dr. Khan,Medicare,1287,1061.92,Paid,Eligibility,100
+2026-01-28,Dr. Ali,Medicaid,144,138.32,Paid,Eligibility,93
+2026-04-17,Dr. Hassan,Cigna,1991,0.0,Pending,Missing Documentation,103
+2026-04-14,Dr. Ahmed,Cigna,2038,1987.1,Paid,Missing Documentation,32
+2025-11-28,Dr. Ali,Medicare,487,394.01,Paid,Eligibility,58
+2025-11-09,Dr. Khan,Aetna,1959,1599.03,Paid,Prior Authorization,68
+2026-06-05,Dr. Ali,Aetna,1270,1105.36,Paid,Coding Error,61
+2026-01-25,Dr. Khan,Blue Cross,2562,2289.24,Paid,,10
+2025-07-28,Dr. Fatima,Blue Cross,229,213.67,Paid,Duplicate Claim,1
+2025-10-11,Dr. Khan,UnitedHealth,1006,961.64,Paid,,97
+2026-02-22,Dr. Fatima,UnitedHealth,1471,1368.65,Paid,Prior Authorization,2
+2026-03-05,Dr. Hassan,Blue Cross,1741,0.0,Pending,Duplicate Claim,50
+2026-02-05,Dr. Ali,Cigna,1294,0.0,Denied,,106
+2026-02-15,Dr. Khan,Cigna,2942,2708.49,Paid,Eligibility,30
+2026-03-08,Dr. Fatima,UnitedHealth,1719,1639.44,Paid,Duplicate Claim,97
+2026-04-28,Dr. Fatima,Medicaid,944,878.34,Paid,Eligibility,57
+2025-10-09,Dr. Khan,UnitedHealth,567,466.46,Paid,Missing Documentation,66
+2026-07-14,Dr. Ahmed,UnitedHealth,2159,1928.13,Paid,Missing Documentation,98
+2025-12-26,Dr. Ahmed,Blue Cross,1811,1677.48,Paid,,24
+2026-06-26,Dr. Khan,Medicare,2137,1993.32,Paid,Coding Error,28
+2025-08-15,Dr. Fatima,UnitedHealth,2272,1982.44,Paid,Duplicate Claim,14
+2025-08-15,Dr. Hassan,Medicaid,773,0.0,Denied,Duplicate Claim,70
+2026-02-21,Dr. Fatima,Cigna,135,0.0,Denied,Duplicate Claim,89
+2026-06-15,Dr. Khan,Medicaid,1219,1140.89,Paid,,23
+2025-10-12,Dr. Fatima,Cigna,579,472.66,Paid,Coding Error,104
+2025-09-01,Dr. Hassan,Aetna,1878,1508.5,Paid,Prior Authorization,14
+2025-10-15,Dr. Hassan,Aetna,2464,2037.52,Paid,Missing Documentation,54
+2025-11-24,Dr. Ali,Cigna,2642,2281.77,Paid,Prior Authorization,104
+2025-10-17,Dr. Ahmed,Medicare,2915,2400.92,Paid,,17
+2026-02-21,Dr. Fatima,Blue Cross,575,461.48,Paid,,35
+2025-08-20,Dr. Ahmed,Medicaid,1768,1444.48,Paid,,45
+2026-05-31,Dr. Ahmed,Cigna,936,793.78,Paid,Prior Authorization,96
+2026-04-13,Dr. Ali,Medicare,2058,0.0,Denied,Eligibility,90
+2026-01-08,Dr. Ali,Aetna,2675,0.0,Denied,Coding Error,111
+2026-04-29,Dr. Fatima,Blue Cross,228,213.07,Paid,,3
+2026-01-17,Dr. Hassan,Cigna,2335,2138.16,Paid,,73
+2025-08-19,Dr. Ali,Medicaid,1802,0.0,Pending,Missing Documentation,86
+2026-01-19,Dr. Ali,Blue Cross,1599,1476.55,Paid,Duplicate Claim,116
+2025-09-14,Dr. Ali,Medicare,957,857.18,Paid,Missing Documentation,20
+2025-11-03,Dr. Hassan,Medicaid,2587,2124.18,Paid,Eligibility,98
+2025-10-26,Dr. Hassan,Medicaid,526,462.79,Paid,,42
+2026-03-25,Dr. Ali,Cigna,1343,0.0,Pending,Eligibility,47
+2026-06-14,Dr. Hassan,Aetna,475,466.23,Paid,Eligibility,110
+2026-04-07,Dr. Fatima,Aetna,2799,2749.37,Paid,Missing Documentation,118
+2026-07-05,Dr. Ahmed,Medicaid,2263,1989.6,Paid,Eligibility,105
+2025-09-01,Dr. Ahmed,UnitedHealth,2576,2361.96,Paid,Missing Documentation,54
+2026-05-03,Dr. Ali,Medicaid,1590,1324.8,Paid,,67
+2026-01-05,Dr. Fatima,Medicaid,819,809.34,Paid,Duplicate Claim,89
+2025-11-13,Dr. Fatima,Medicaid,1046,965.24,Paid,,38
+2025-12-22,Dr. Ahmed,UnitedHealth,2364,0.0,Denied,,41
+2026-04-23,Dr. Fatima,UnitedHealth,429,394.84,Paid,Eligibility,91
+2026-07-11,Dr. Hassan,UnitedHealth,919,765.07,Paid,,17
+2026-07-05,Dr. Ahmed,Medicaid,743,603.1,Paid,,73
+2025-08-26,Dr. Ali,Cigna,2336,2030.21,Paid,,116
+2026-06-11,Dr. Ahmed,UnitedHealth,1758,1614.82,Paid,,47
+2026-01-09,Dr. Khan,Aetna,2407,2177.69,Paid,,30
+2026-04-28,Dr. Hassan,UnitedHealth,1401,1297.35,Paid,Coding Error,71
+2025-09-04,Dr. Khan,Medicare,2400,2340.06,Paid,Eligibility,70
+2025-07-30,Dr. Ali,Medicare,1835,0.0,Pending,,95
+2026-01-17,Dr. Khan,Medicare,1480,1448.94,Paid,Eligibility,94
+2025-08-27,Dr. Hassan,Medicare,254,247.59,Paid,,107
+2026-06-27,Dr. Fatima,Cigna,1825,1682.79,Paid,Eligibility,18
+2025-09-25,Dr. Fatima,UnitedHealth,2406,2145.83,Paid,,108
+2026-07-02,Dr. Hassan,Aetna,2525,2120.7,Paid,,93
+2025-08-18,Dr. Khan,Aetna,2107,2033.65,Paid,Prior Authorization,57
+2026-03-14,Dr. Hassan,Cigna,1690,1644.81,Paid,,119
+2025-08-04,Dr. Fatima,Medicare,532,445.27,Paid,Coding Error,96
+2025-11-18,Dr. Fatima,Blue Cross,1453,1271.03,Paid,,83
+2026-07-18,Dr. Hassan,Medicaid,877,769.43,Paid,,67
+2026-04-09,Dr. Hassan,Blue Cross,1003,841.35,Paid,Coding Error,67
+2025-10-25,Dr. Ali,Aetna,656,593.08,Paid,Coding Error,71
+2025-09-10,Dr. Ahmed,Medicare,2162,2085.18,Paid,,10
+2026-06-29,Dr. Ahmed,Aetna,1614,1437.84,Paid,,12
+2026-06-05,Dr. Ahmed,Cigna,1823,1647.47,Paid,Missing Documentation,23
+2025-08-05,Dr. Ahmed,UnitedHealth,2318,2192.27,Paid,,59
+2026-01-21,Dr. Ali,Aetna,1442,1338.7,Paid,Duplicate Claim,96
+2026-07-05,Dr. Ahmed,UnitedHealth,567,456.12,Paid,,26
+2025-12-17,Dr. Fatima,Medicare,1003,995.61,Paid,Coding Error,25
+2026-05-13,Dr. Khan,UnitedHealth,247,237.0,Paid,Prior Authorization,45
+2026-04-29,Dr. Fatima,UnitedHealth,274,0.0,Denied,Missing Documentation,55
+2026-05-18,Dr. Fatima,UnitedHealth,1270,0.0,Denied,Eligibility,45
+2026-05-24,Dr. Ali,Medicaid,1551,1436.45,Paid,Prior Authorization,56
+2026-07-09,Dr. Hassan,Cigna,1973,0.0,Pending,,19
+2025-10-11,Dr. Fatima,Medicaid,1663,0.0,Pending,,37
+2025-10-09,Dr. Ali,Medicaid,2557,0.0,Pending,Prior Authorization,54
+2026-05-04,Dr. Hassan,Medicare,2809,2626.67,Paid,Duplicate Claim,108
+2026-07-15,Dr. Fatima,UnitedHealth,1562,0.0,Denied,Duplicate Claim,85
+2026-02-01,Dr. Ali,Blue Cross,2044,1780.07,Paid,Prior Authorization,96
+2025-12-20,Dr. Khan,Aetna,1281,0.0,Denied,Coding Error,57
+2026-01-30,Dr. Khan,Blue Cross,2762,2524.63,Paid,Duplicate Claim,51
+2025-11-29,Dr. Ali,Medicaid,781,631.57,Paid,Missing Documentation,117
+2026-04-21,Dr. Fatima,Medicare,2256,1893.12,Paid,,87
+2026-04-28,Dr. Hassan,Aetna,2248,0.0,Denied,Missing Documentation,66
+2026-02-10,Dr. Ali,Aetna,1660,1465.95,Paid,Eligibility,6
+2025-12-03,Dr. Ali,Medicare,2064,1694.41,Paid,,97
+2026-01-07,Dr. Fatima,Medicare,1654,1505.32,Paid,,62
+2026-05-18,Dr. Hassan,Medicaid,2148,1728.09,Paid,,89
+2025-08-29,Dr. Ali,Aetna,2035,1957.74,Paid,Eligibility,115
+2025-07-29,Dr. Khan,Cigna,2988,2498.44,Paid,Duplicate Claim,55
+2025-08-21,Dr. Fatima,UnitedHealth,1525,1389.32,Paid,Eligibility,96
+2026-02-20,Dr. Khan,Medicaid,2195,2073.43,Paid,Missing Documentation,116
+2026-02-14,Dr. Ahmed,Cigna,373,328.26,Paid,Duplicate Claim,9
+2026-06-02,Dr. Hassan,Aetna,2768,0.0,Pending,,52
+2026-03-23,Dr. Khan,UnitedHealth,1192,1088.2,Paid,,42
+2026-02-14,Dr. Ahmed,Medicaid,1218,1129.94,Paid,Coding Error,11
+2026-07-12,Dr. Khan,Medicare,1734,0.0,Denied,,13
+2025-10-12,Dr. Hassan,UnitedHealth,648,616.64,Paid,Eligibility,56
+2025-11-09,Dr. Fatima,Medicare,671,667.85,Paid,,69
+2026-02-12,Dr. Hassan,Aetna,834,828.27,Paid,,25
+2025-12-26,Dr. Ali,UnitedHealth,1757,1478.28,Paid,,82
+2026-01-16,Dr. Ali,Cigna,2999,2538.49,Paid,,111
+2025-11-26,Dr. Ahmed,Cigna,243,0.0,Pending,Missing Documentation,108
+2026-05-18,Dr. Hassan,Medicaid,2330,2170.5,Paid,,49
+2026-06-16,Dr. Khan,Cigna,1267,1041.22,Paid,,83
+2025-08-14,Dr. Ali,UnitedHealth,1677,1652.25,Paid,,36
+2026-05-25,Dr. Fatima,Medicaid,617,610.22,Paid,Missing Documentation,55
+2026-06-17,Dr. Ali,Medicaid,1972,1668.82,Paid,,28
+2026-03-24,Dr. Ali,UnitedHealth,998,799.43,Paid,Coding Error,54
+2026-07-18,Dr. Ali,Cigna,1307,1292.25,Paid,Eligibility,59
+2025-08-16,Dr. Hassan,Blue Cross,1450,1364.46,Paid,,118
+2026-06-04,Dr. Ali,Medicaid,2384,2249.29,Paid,Prior Authorization,44
+2026-06-20,Dr. Fatima,Aetna,1246,0.0,Pending,,63
+2025-11-07,Dr. Ahmed,Blue Cross,1607,1384.55,Paid,Coding Error,48
+2026-06-27,Dr. Ali,Cigna,2371,0.0,Denied,,24
+2025-10-29,Dr. Khan,Medicaid,2810,2420.14,Paid,,36
+2026-05-27,Dr. Fatima,Aetna,2394,2034.32,Paid,,88
+2026-07-19,Dr. Hassan,Aetna,1611,1333.67,Paid,,34
+2025-09-28,Dr. Fatima,UnitedHealth,1569,1420.75,Paid,,118
+2026-05-11,Dr. Fatima,Aetna,2090,0.0,Pending,Eligibility,14
+2025-10-08,Dr. Fatima,Medicaid,491,439.35,Paid,Missing Documentation,56
+2026-05-17,Dr. Ali,Medicare,439,420.13,Paid,,113
+2026-05-22,Dr. Khan,Cigna,1038,883.68,Paid,Coding Error,39
+2025-11-03,Dr. Ahmed,Medicare,1605,1384.01,Paid,Coding Error,20
+2025-07-25,Dr. Ahmed,Medicare,2595,2104.41,Paid,Missing Documentation,66
+2026-06-03,Dr. Khan,Medicare,364,328.54,Paid,Eligibility,110
+2026-01-25,Dr. Ahmed,Aetna,1732,1707.34,Paid,Duplicate Claim,4
+2025-11-03,Dr. Ahmed,Cigna,2272,1987.92,Paid,Missing Documentation,55
+2025-11-19,Dr. Khan,UnitedHealth,327,0.0,Denied,Duplicate Claim,56
+2026-03-14,Dr. Fatima,Aetna,2772,2662.45,Paid,Coding Error,43
+2025-10-18,Dr. Ahmed,UnitedHealth,394,0.0,Pending,Prior Authorization,54
+2025-09-18,Dr. Hassan,Blue Cross,598,542.38,Paid,Prior Authorization,18
+2025-10-18,Dr. Khan,Aetna,1741,1490.1,Paid,,110
+2026-06-01,Dr. Fatima,Medicare,151,0.0,Pending,Missing Documentation,47
+2026-01-03,Dr. Ali,Medicaid,1967,0.0,Denied,,88
+2025-12-05,Dr. Ahmed,Aetna,1534,1321.64,Paid,Duplicate Claim,47
+2025-10-30,Dr. Hassan,Blue Cross,182,147.84,Paid,Eligibility,75
+2026-02-10,Dr. Khan,Aetna,2273,1968.49,Paid,,119
+2026-03-27,Dr. Ahmed,Medicaid,221,190.96,Paid,Duplicate Claim,22
+2026-06-13,Dr. Ali,UnitedHealth,2010,1636.36,Paid,,52
+2026-02-11,Dr. Ali,Medicare,2857,2831.54,Paid,Coding Error,16
+2025-10-24,Dr. Khan,Cigna,591,529.87,Paid,,100
+2026-04-29,Dr. Ali,Cigna,685,549.97,Paid,Coding Error,71
+2025-12-16,Dr. Hassan,Medicaid,2255,1974.05,Paid,Prior Authorization,96
+2026-06-16,Dr. Ahmed,Medicare,2806,2353.83,Paid,Eligibility,22
+2026-03-03,Dr. Fatima,UnitedHealth,2947,2748.59,Paid,Eligibility,83
+2025-09-21,Dr. Khan,Medicare,1001,808.77,Paid,Prior Authorization,79
+2026-02-06,Dr. Ahmed,Cigna,1167,0.0,Denied,Prior Authorization,64
+2026-07-03,Dr. Fatima,UnitedHealth,1342,0.0,Denied,Prior Authorization,97
+2026-02-25,Dr. Fatima,UnitedHealth,947,0.0,Denied,,79
+2025-11-20,Dr. Ahmed,Aetna,2726,2260.41,Paid,Prior Authorization,71
+2026-02-16,Dr. Khan,Blue Cross,2662,0.0,Pending,Prior Authorization,105
+2026-04-13,Dr. Khan,UnitedHealth,2417,2381.38,Paid,,30
+2025-12-20,Dr. Ahmed,UnitedHealth,1863,1580.51,Paid,,63
+2026-04-13,Dr. Ahmed,Medicaid,1805,1780.8,Paid,,64
+2025-09-25,Dr. Khan,Cigna,2334,0.0,Pending,,71
+2026-02-14,Dr. Khan,Aetna,2160,2023.43,Paid,Missing Documentation,101
+2025-10-04,Dr. Fatima,Medicaid,2323,2038.11,Paid,Duplicate Claim,97
+2026-05-07,Dr. Ahmed,Cigna,2804,2719.28,Paid,Duplicate Claim,9
+2026-03-24,Dr. Fatima,UnitedHealth,2983,0.0,Denied,Duplicate Claim,58
+2026-05-14,Dr. Fatima,UnitedHealth,1838,1633.53,Paid,,18
+2025-09-02,Dr. Khan,Aetna,1677,1648.99,Paid,Missing Documentation,14
+2026-05-30,Dr. Hassan,Blue Cross,256,253.55,Paid,Missing Documentation,77
+2025-08-31,Dr. Ali,UnitedHealth,254,214.73,Paid,,26
+2026-02-27,Dr. Ahmed,UnitedHealth,828,705.75,Paid,Coding Error,3
+2026-07-05,Dr. Ali,Aetna,2597,0.0,Denied,,76
+2026-01-01,Dr. Ahmed,UnitedHealth,276,260.83,Paid,,72
+2026-04-30,Dr. Hassan,Medicare,1431,0.0,Pending,Eligibility,62
+2026-02-25,Dr. Khan,Medicare,1252,1102.23,Paid,Prior Authorization,92
+2026-04-29,Dr. Ali,UnitedHealth,2035,1897.31,Paid,Prior Authorization,33
+2026-07-11,Dr. Ali,Cigna,637,558.07,Paid,,26
+2025-12-20,Dr. Ahmed,Cigna,2606,2504.68,Paid,,13
+2026-01-09,Dr. Fatima,Cigna,1851,1727.62,Paid,,40
+2025-12-17,Dr. Fatima,Aetna,1701,1482.58,Paid,,84
+2025-10-26,Dr. Hassan,UnitedHealth,1399,1287.15,Paid,,78
+2026-03-23,Dr. Fatima,Cigna,2931,2893.91,Paid,Eligibility,18
+2025-07-24,Dr. Fatima,Blue Cross,623,0.0,Pending,Duplicate Claim,71
+2026-02-28,Dr. Hassan,Blue Cross,579,0.0,Pending,Coding Error,107
+2025-09-28,Dr. Ali,Blue Cross,2504,2427.65,Paid,Coding Error,23
+2026-07-09,Dr. Fatima,Medicaid,1816,1683.55,Paid,,26
+2025-08-28,Dr. Khan,Medicare,504,487.52,Paid,,119
+2026-05-08,Dr. Khan,Aetna,1137,953.46,Paid,,17
+2025-10-30,Dr. Hassan,Cigna,1062,962.7,Paid,,106
+2025-09-10,Dr. Fatima,Blue Cross,1208,1200.71,Paid,,12
+2025-10-14,Dr. Fatima,Blue Cross,1204,1007.46,Paid,Missing Documentation,12
+2026-01-28,Dr. Hassan,Medicare,2988,2557.51,Paid,,10
+2025-10-31,Dr. Hassan,Medicare,568,0.0,Pending,Eligibility,114
+2026-03-31,Dr. Hassan,Aetna,953,828.54,Paid,,26
+2026-01-08,Dr. Fatima,Cigna,1545,0.0,Pending,Eligibility,44
+2026-01-12,Dr. Khan,Medicaid,1965,0.0,Denied,,51
+2026-01-18,Dr. Fatima,Medicaid,341,294.94,Paid,Coding Error,57
+2025-12-05,Dr. Khan,Cigna,1505,1347.09,Paid,Missing Documentation,116
+2025-11-27,Dr. Khan,Blue Cross,2499,0.0,Pending,Missing Documentation,52
+2025-10-06,Dr. Ali,UnitedHealth,2061,1886.56,Paid,Missing Documentation,52
+2026-01-22,Dr. Fatima,Aetna,331,0.0,Pending,Coding Error,2
+2025-07-28,Dr. Hassan,Blue Cross,629,552.67,Paid,,114
+2026-04-26,Dr. Fatima,Medicaid,1881,1636.54,Paid,Coding Error,10
+2026-05-01,Dr. Khan,UnitedHealth,442,439.02,Paid,,33
+2026-06-14,Dr. Khan,Blue Cross,1042,941.39,Paid,,101
+2025-11-15,Dr. Ahmed,Cigna,961,914.44,Paid,Duplicate Claim,34
+2026-06-22,Dr. Fatima,UnitedHealth,1944,1622.04,Paid,Eligibility,13
+2026-04-18,Dr. Ali,UnitedHealth,1462,1418.74,Paid,,75
+2025-11-27,Dr. Fatima,Medicare,1231,0.0,Denied,Eligibility,76
+2026-07-20,Dr. Khan,Cigna,1381,1213.65,Paid,Prior Authorization,40
+2026-03-09,Dr. Fatima,Medicare,353,311.09,Paid,Coding Error,75
+2026-07-05,Dr. Khan,Cigna,2992,2582.82,Paid,,15
+2025-08-05,Dr. Hassan,UnitedHealth,1976,1663.41,Paid,Coding Error,23
+2026-04-18,Dr. Ahmed,Blue Cross,1344,1143.08,Paid,Prior Authorization,40
+2026-07-08,Dr. Fatima,Cigna,2608,2192.56,Paid,Duplicate Claim,80
+2026-04-09,Dr. Hassan,UnitedHealth,2818,2273.81,Paid,Coding Error,112
+2026-07-12,Dr. Hassan,Medicaid,2500,2269.18,Paid,Duplicate Claim,99
+2026-06-11,Dr. Khan,Medicare,296,0.0,Denied,Prior Authorization,106
+2025-10-01,Dr. Khan,Medicaid,1488,1298.55,Paid,,53
+2025-10-18,Dr. Fatima,Blue Cross,644,596.02,Paid,Missing Documentation,15
+2025-12-23,Dr. Ali,UnitedHealth,2825,2485.51,Paid,Eligibility,4
+2026-01-04,Dr. Hassan,UnitedHealth,947,942.57,Paid,,101
+2026-06-07,Dr. Ali,Blue Cross,672,0.0,Pending,Missing Documentation,119
+2026-02-07,Dr. Ahmed,Medicare,325,285.59,Paid,,79
+2026-02-22,Dr. Hassan,Medicare,2829,0.0,Denied,,106
+2026-06-22,Dr. Ali,Medicaid,2515,0.0,Denied,Eligibility,39
+2026-01-14,Dr. Hassan,Aetna,660,633.03,Paid,Missing Documentation,68
+2025-10-01,Dr. Ali,Blue Cross,2346,2315.02,Paid,,55
+2025-09-28,Dr. Fatima,Blue Cross,788,722.13,Paid,,80
+2026-02-10,Dr. Ali,Medicaid,1059,947.9,Paid,,86
+2026-05-29,Dr. Hassan,Aetna,1237,0.0,Pending,Prior Authorization,85
+2025-09-26,Dr. Khan,Medicaid,1947,1897.94,Paid,Coding Error,84
+2025-11-24,Dr. Fatima,Medicare,306,0.0,Pending,,114
+2026-02-13,Dr. Fatima,UnitedHealth,2184,0.0,Pending,,100
+2026-02-02,Dr. Fatima,Cigna,1591,0.0,Pending,Prior Authorization,44
+2026-01-25,Dr. Fatima,UnitedHealth,1240,1225.1,Paid,Missing Documentation,77
+2025-11-14,Dr. Khan,UnitedHealth,330,0.0,Pending,Eligibility,91
+2026-06-18,Dr. Ahmed,Cigna,1567,1417.05,Paid,,103
+2025-09-11,Dr. Ahmed,Medicare,184,150.12,Paid,Missing Documentation,62
+2026-04-29,Dr. Ali,Blue Cross,2626,2592.3,Paid,,50
+2025-08-17,Dr. Ali,Aetna,1969,1799.05,Paid,,108
+2025-12-07,Dr. Ahmed,UnitedHealth,2242,0.0,Pending,Coding Error,92
+2025-11-06,Dr. Hassan,Cigna,226,222.88,Paid,Eligibility,54
+2026-01-06,Dr. Fatima,UnitedHealth,124,0.0,Denied,Eligibility,57
+2026-02-18,Dr. Ahmed,Aetna,1728,0.0,Pending,,42
+2025-10-05,Dr. Ahmed,Medicare,376,334.46,Paid,Eligibility,109
+2026-04-05,Dr. Khan,Medicare,2202,1812.41,Paid,Duplicate Claim,55
+2026-07-10,Dr. Ali,Medicare,1491,0.0,Denied,,87
+2026-04-28,Dr. Ali,Medicaid,2348,2259.1,Paid,,73
+2026-04-15,Dr. Hassan,Blue Cross,1140,1033.78,Paid,,69
+2026-02-01,Dr. Ali,Aetna,522,0.0,Pending,Prior Authorization,36
+2026-03-20,Dr. Fatima,Medicaid,2571,2559.41,Paid,,88
+2026-02-26,Dr. Fatima,UnitedHealth,2432,2210.1,Paid,Missing Documentation,83
+2025-12-26,Dr. Ali,Blue Cross,879,852.95,Paid,Prior Authorization,81
+2025-11-26,Dr. Hassan,Cigna,740,655.91,Paid,,86
+2026-01-30,Dr. Ahmed,Medicare,2942,2830.19,Paid,,109
+2026-04-15,Dr. Hassan,Medicaid,2788,2310.44,Paid,,112
+2026-05-16,Dr. Ahmed,Medicare,1855,0.0,Pending,,44
+2026-01-02,Dr. Hassan,UnitedHealth,1707,1610.73,Paid,Eligibility,59
+2026-04-25,Dr. Ali,Blue Cross,2658,2508.18,Paid,,5
+2025-12-16,Dr. Hassan,Aetna,1521,1489.23,Paid,,107
+2026-07-07,Dr. Hassan,Medicare,2865,2448.7,Paid,Eligibility,55
+2025-08-29,Dr. Ahmed,Aetna,167,0.0,Pending,Prior Authorization,57
+2026-02-15,Dr. Khan,UnitedHealth,1474,1273.75,Paid,Eligibility,12
+2026-05-29,Dr. Hassan,UnitedHealth,2805,2537.12,Paid,,68
+2025-08-26,Dr. Hassan,Blue Cross,2474,2333.47,Paid,Prior Authorization,103
+2025-10-17,Dr. Fatima,UnitedHealth,218,195.86,Paid,,34
+2025-07-26,Dr. Fatima,UnitedHealth,2703,2602.88,Paid,,3
+2025-08-09,Dr. Fatima,Cigna,2361,1945.0,Paid,,7
+2025-08-12,Dr. Ahmed,Cigna,1392,1148.58,Paid,Eligibility,83
+2026-07-03,Dr. Fatima,Blue Cross,424,339.83,Paid,Coding Error,24
+2026-04-08,Dr. Ali,Cigna,251,0.0,Denied,Missing Documentation,101
+2026-04-21,Dr. Hassan,Aetna,1291,1125.41,Paid,Duplicate Claim,77
+2025-12-12,Dr. Ali,Medicaid,913,0.0,Pending,,36
+2026-03-18,Dr. Khan,Aetna,1867,1730.94,Paid,,66
+2025-10-26,Dr. Ali,Blue Cross,919,894.41,Paid,,60
+2026-03-06,Dr. Fatima,Cigna,541,0.0,Denied,Prior Authorization,39
+2026-05-11,Dr. Hassan,Medicare,1136,1059.28,Paid,Duplicate Claim,74
+2025-10-06,Dr. Fatima,Blue Cross,2500,2215.61,Paid,,5
+2026-02-09,Dr. Khan,UnitedHealth,2877,2813.13,Paid,,34
+2025-12-26,Dr. Khan,Medicaid,2690,2416.7,Paid,Missing Documentation,63
+2025-12-25,Dr. Ahmed,Cigna,2563,2077.42,Paid,Prior Authorization,39
+2026-07-07,Dr. Fatima,Blue Cross,1680,0.0,Pending,Eligibility,38
+2025-09-30,Dr. Hassan,Aetna,2789,0.0,Pending,,93
+2025-11-14,Dr. Khan,Medicare,1707,1586.28,Paid,Prior Authorization,18
+2025-08-23,Dr. Ali,UnitedHealth,1289,1254.5,Paid,,87
+2026-03-12,Dr. Khan,Cigna,2372,2175.14,Paid,,94
+2026-05-17,Dr. Hassan,Medicare,2032,1668.97,Paid,Prior Authorization,45
+2025-08-03,Dr. Khan,Medicare,2807,2287.86,Paid,Prior Authorization,42
+2026-02-22,Dr. Hassan,UnitedHealth,1682,1475.13,Paid,Coding Error,15
+2026-05-08,Dr. Ahmed,Medicare,323,265.67,Paid,Eligibility,51
+2025-11-24,Dr. Fatima,Cigna,871,834.26,Paid,,102
+2025-11-10,Dr. Khan,Blue Cross,1565,1321.8,Paid,,75
+2026-04-09,Dr. Ali,Blue Cross,1234,1146.96,Paid,Prior Authorization,1
+2026-01-20,Dr. Ali,UnitedHealth,380,348.72,Paid,,108
+2025-07-31,Dr. Hassan,Medicaid,1069,946.47,Paid,,76
+2026-02-09,Dr. Ahmed,Blue Cross,2823,2295.69,Paid,Coding Error,110
+2026-04-30,Dr. Hassan,UnitedHealth,2365,2205.24,Paid,Duplicate Claim,5
+2026-03-05,Dr. Fatima,Blue Cross,1889,1549.94,Paid,,47
+2025-07-28,Dr. Ali,Medicare,962,0.0,Denied,,54
+2026-02-12,Dr. Khan,Medicaid,2302,0.0,Pending,Eligibility,46
+2026-05-25,Dr. Ahmed,Medicare,1340,0.0,Pending,Prior Authorization,64
+2025-10-30,Dr. Fatima,Cigna,585,574.6,Paid,Duplicate Claim,58
+2026-05-16,Dr. Ahmed,Medicaid,2178,1971.98,Paid,Eligibility,80
+2025-08-02,Dr. Fatima,Medicaid,648,594.58,Paid,Eligibility,31
+2025-09-15,Dr. Ahmed,Aetna,2161,0.0,Denied,Missing Documentation,91
+2026-06-21,Dr. Fatima,Blue Cross,315,0.0,Denied,,43
+2025-08-28,Dr. Khan,Cigna,2987,2792.98,Paid,Missing Documentation,27
+2025-12-13,Dr. Fatima,Blue Cross,1181,1104.52,Paid,,87
+2026-03-04,Dr. Fatima,Blue Cross,2989,2596.43,Paid,Eligibility,58
+2026-04-20,Dr. Khan,UnitedHealth,664,0.0,Pending,Prior Authorization,2
+2026-06-11,Dr. Hassan,Aetna,2351,2114.6,Paid,,81
+2026-07-22,Dr. Hassan,Medicare,2910,0.0,Denied,Missing Documentation,111
+2026-02-08,Dr. Hassan,Medicare,145,122.31,Paid,,24
+2026-01-04,Dr. Hassan,Cigna,2658,0.0,Denied,Duplicate Claim,16
+2026-03-25,Dr. Ahmed,UnitedHealth,2100,2055.93,Paid,,79
+2026-01-19,Dr. Ali,Medicare,1853,1648.42,Paid,,98
+2025-08-02,Dr. Khan,Blue Cross,1226,0.0,Denied,Prior Authorization,3
+2026-01-04,Dr. Ahmed,Medicare,2154,0.0,Pending,,105
+2025-09-25,Dr. Khan,Medicare,2018,2005.22,Paid,,32
+2025-11-07,Dr. Ali,Medicaid,1151,1028.78,Paid,Eligibility,36
+2025-12-01,Dr. Ali,Aetna,2140,1932.33,Paid,Coding Error,51
+2026-06-11,Dr. Hassan,Cigna,718,695.03,Paid,,36
+2026-04-15,Dr. Khan,Aetna,2839,0.0,Pending,,22
+2025-09-19,Dr. Fatima,Medicaid,2213,2072.55,Paid,Coding Error,17
+2026-03-17,Dr. Ahmed,Medicare,1311,1267.05,Paid,,116
+2026-04-25,Dr. Ali,UnitedHealth,275,273.9,Paid,Prior Authorization,58
+2025-10-05,Dr. Khan,Blue Cross,2642,0.0,Pending,Missing Documentation,83
+2025-08-18,Dr. Hassan,Cigna,1246,0.0,Denied,Prior Authorization,14
+2025-10-11,Dr. Khan,UnitedHealth,1135,1081.0,Paid,,69
+2025-12-08,Dr. Hassan,Cigna,912,843.44,Paid,,9
+2025-12-27,Dr. Ahmed,Medicaid,2844,2367.66,Paid,Duplicate Claim,42
+2026-03-10,Dr. Khan,Aetna,2304,1981.24,Paid,,44
+2026-05-21,Dr. Ali,Blue Cross,819,0.0,Denied,,62
+2025-09-15,Dr. Khan,UnitedHealth,973,781.69,Paid,,58
+2025-12-30,Dr. Fatima,Cigna,211,0.0,Denied,Prior Authorization,78
+2026-03-01,Dr. Khan,Cigna,1215,992.4,Paid,Coding Error,118
+2026-01-02,Dr. Ahmed,UnitedHealth,1704,0.0,Denied,,67
+2025-09-26,Dr. Khan,Aetna,641,613.02,Paid,Missing Documentation,26
+2026-02-21,Dr. Hassan,Aetna,485,0.0,Denied,,13
+2025-12-25,Dr. Ahmed,UnitedHealth,2890,0.0,Denied,Eligibility,41
+2025-12-27,Dr. Khan,UnitedHealth,271,248.28,Paid,Coding Error,58
+2026-01-27,Dr. Ali,Aetna,1229,1163.09,Paid,,101
+2026-02-17,Dr. Ali,Medicare,2433,2122.33,Paid,,26
+2025-08-13,Dr. Fatima,Medicaid,412,0.0,Pending,,42
+2025-08-15,Dr. Khan,UnitedHealth,2863,2636.42,Paid,,85
+2025-09-09,Dr. Fatima,Blue Cross,2247,1805.09,Paid,,107
+2026-03-18,Dr. Khan,Aetna,354,327.24,Paid,Missing Documentation,115
+2026-02-03,Dr. Ali,Blue Cross,380,330.1,Paid,Duplicate Claim,96
+2026-03-01,Dr. Khan,UnitedHealth,2173,1966.63,Paid,Prior Authorization,60
+2025-08-01,Dr. Ahmed,UnitedHealth,268,261.46,Paid,Duplicate Claim,5
+2025-11-14,Dr. Khan,Medicare,2253,2176.37,Paid,Eligibility,79
+2026-01-27,Dr. Ahmed,Blue Cross,2416,2194.33,Paid,,114
+2025-08-09,Dr. Ahmed,UnitedHealth,216,188.3,Paid,,113
+2026-02-18,Dr. Khan,Medicaid,2569,2501.67,Paid,Duplicate Claim,18
+2025-10-11,Dr. Ahmed,Medicaid,2046,1889.99,Paid,Eligibility,78
+2025-12-15,Dr. Hassan,Blue Cross,2297,2061.25,Paid,Eligibility,51
+2026-03-01,Dr. Ahmed,Medicare,1786,1482.18,Paid,Coding Error,105
+2025-11-02,Dr. Hassan,UnitedHealth,1517,1280.49,Paid,Missing Documentation,13
+2025-10-05,Dr. Ali,UnitedHealth,325,287.23,Paid,Duplicate Claim,59
+2026-04-22,Dr. Ali,Blue Cross,2985,2764.78,Paid,,103
+2026-06-13,Dr. Ali,Aetna,428,397.87,Paid,,69
+2026-01-23,Dr. Khan,Cigna,228,210.42,Paid,Missing Documentation,2
+2025-11-24,Dr. Ali,Medicaid,1416,1412.61,Paid,,11
+2026-04-01,Dr. Fatima,Blue Cross,1626,0.0,Pending,Eligibility,15
+2026-04-10,Dr. Khan,Aetna,927,913.11,Paid,,2
+2025-12-06,Dr. Ali,UnitedHealth,1338,0.0,Denied,,78
+2025-11-18,Dr. Khan,UnitedHealth,2940,2423.5,Paid,Missing Documentation,38
+2026-06-10,Dr. Fatima,Blue Cross,1272,0.0,Pending,Eligibility,119
+2025-10-15,Dr. Ali,UnitedHealth,655,641.58,Paid,,3
+2026-06-14,Dr. Khan,Medicaid,175,0.0,Pending,Eligibility,87
+2025-12-17,Dr. Ali,Blue Cross,2216,2194.84,Paid,,66
+2026-04-15,Dr. Fatima,Blue Cross,2875,0.0,Denied,Prior Authorization,2
+2026-04-24,Dr. Fatima,Medicare,716,579.89,Paid,Coding Error,52
+2025-09-25,Dr. Hassan,Medicare,1040,0.0,Denied,Eligibility,20
+2026-01-23,Dr. Khan,Medicaid,2133,2032.98,Paid,Missing Documentation,67
+2026-05-09,Dr. Ali,Cigna,2884,2803.21,Paid,Missing Documentation,57
+2026-06-14,Dr. Khan,Medicaid,2518,2398.41,Paid,Prior Authorization,77
+2026-02-13,Dr. Ali,Cigna,796,0.0,Pending,Coding Error,84
+2026-02-22,Dr. Ahmed,UnitedHealth,1538,1456.49,Paid,,16
+2026-03-02,Dr. Khan,Aetna,1621,1393.05,Paid,Duplicate Claim,112
+2026-06-16,Dr. Khan,Medicare,2962,2429.96,Paid,,15
+2026-05-25,Dr. Ahmed,UnitedHealth,903,771.91,Paid,Duplicate Claim,82
+2025-12-10,Dr. Fatima,Cigna,1428,1261.75,Paid,Prior Authorization,16
+2026-03-24,Dr. Fatima,Medicaid,1123,1000.2,Paid,,33
+2026-02-12,Dr. Ali,Aetna,1276,1141.9,Paid,,30
+2026-01-14,Dr. Fatima,UnitedHealth,1910,0.0,Pending,Prior Authorization,62
+2026-06-18,Dr. Ahmed,Aetna,1873,1706.0,Paid,Eligibility,17
+2026-04-02,Dr. Fatima,UnitedHealth,1654,1585.84,Paid,,25
+2026-02-17,Dr. Ali,UnitedHealth,941,931.45,Paid,,80
+2026-01-10,Dr. Hassan,Blue Cross,1130,1026.97,Paid,,21
+2026-02-21,Dr. Ali,Cigna,2375,1987.61,Paid,Missing Documentation,66
+2026-01-08,Dr. Ali,Cigna,1772,1425.1,Paid,Eligibility,103
+2025-10-01,Dr. Fatima,UnitedHealth,1092,1080.06,Paid,Missing Documentation,14
+2025-12-20,Dr. Khan,Blue Cross,2653,0.0,Pending,,14
+2025-12-05,Dr. Fatima,Medicaid,2379,1961.99,Paid,Missing Documentation,59
+2026-01-19,Dr. Fatima,UnitedHealth,2435,2009.96,Paid,Missing Documentation,99
+2025-09-17,Dr. Ali,Medicaid,419,396.26,Paid,Coding Error,92
+2026-07-10,Dr. Ahmed,Cigna,1358,0.0,Denied,Prior Authorization,19
+2026-07-16,Dr. Fatima,Medicare,495,462.03,Paid,,107
+2025-11-21,Dr. Hassan,Cigna,2045,1889.81,Paid,Eligibility,50
+2026-01-30,Dr. Ali,Cigna,158,0.0,Pending,Duplicate Claim,66
+2026-05-13,Dr. Khan,Medicaid,222,182.84,Paid,,14
+2026-05-16,Dr. Ali,Cigna,2265,2262.09,Paid,,53
+2025-09-11,Dr. Ahmed,Medicare,1034,865.94,Paid,,48
+2025-11-20,Dr. Khan,Medicare,1209,1190.42,Paid,Coding Error,4
+2025-11-28,Dr. Ali,Blue Cross,2111,1860.81,Paid,Coding Error,21
+2026-04-25,Dr. Ahmed,Blue Cross,1781,1647.72,Paid,,6
+2026-07-11,Dr. Hassan,Medicare,2361,2305.47,Paid,,2
+2026-04-11,Dr. Hassan,Medicaid,1522,1281.56,Paid,,32
+2026-06-20,Dr. Fatima,Medicaid,2518,2143.74,Paid,,40
+2025-10-20,Dr. Ahmed,UnitedHealth,1170,1085.45,Paid,Missing Documentation,107
+2026-02-10,Dr. Fatima,UnitedHealth,767,613.79,Paid,Eligibility,106
+2025-11-09,Dr. Ali,UnitedHealth,774,762.65,Paid,,92
+2026-05-28,Dr. Fatima,Cigna,2427,2373.0,Paid,,5
+2026-04-15,Dr. Khan,Aetna,1092,0.0,Pending,Coding Error,98
+2025-11-17,Dr. Hassan,Medicaid,2786,2679.78,Paid,Coding Error,114
+2026-07-13,Dr. Khan,Cigna,585,0.0,Denied,Missing Documentation,7
+2025-12-23,Dr. Ali,Cigna,1865,0.0,Denied,,83
+2025-11-20,Dr. Fatima,Medicaid,1363,1204.75,Paid,,106
+2025-12-29,Dr. Khan,Aetna,502,477.6,Paid,Missing Documentation,116
+2026-04-05,Dr. Ali,UnitedHealth,1713,1529.3,Paid,,115
+2025-10-14,Dr. Ali,Medicaid,1890,0.0,Denied,,112
+2025-09-24,Dr. Fatima,Aetna,1517,1371.27,Paid,,75
+2025-12-02,Dr. Ali,Blue Cross,1555,1549.22,Paid,Duplicate Claim,108
+2026-02-28,Dr. Khan,Medicare,478,471.15,Paid,,74
+2026-04-12,Dr. Fatima,Medicaid,837,0.0,Denied,,111
+2026-04-06,Dr. Ali,Aetna,1359,1305.69,Paid,,33
+2026-01-17,Dr. Ahmed,UnitedHealth,609,592.89,Paid,,9
+2025-12-05,Dr. Fatima,Medicaid,2523,2505.05,Paid,,114
+2026-05-05,Dr. Khan,Medicaid,1404,1311.91,Paid,Eligibility,11
+2026-04-21,Dr. Ahmed,Medicaid,1811,1624.56,Paid,Eligibility,8
+2026-03-19,Dr. Khan,Cigna,2969,2383.22,Paid,,33
+2026-07-18,Dr. Ahmed,Aetna,2001,1708.63,Paid,,93
+2025-08-09,Dr. Khan,Medicaid,1328,1234.43,Paid,Duplicate Claim,115
+2025-12-28,Dr. Khan,Aetna,1776,1548.47,Paid,,105
+2025-09-10,Dr. Ahmed,Aetna,2342,2281.81,Paid,Missing Documentation,11
+2026-04-26,Dr. Khan,Medicaid,1569,1414.83,Paid,Prior Authorization,56
+2026-01-25,Dr. Hassan,Blue Cross,2532,2258.9,Paid,,31
+2025-12-20,Dr. Hassan,Cigna,1993,0.0,Pending,Prior Authorization,22
+2025-11-08,Dr. Ahmed,UnitedHealth,1600,0.0,Denied,Prior Authorization,12
+2025-11-27,Dr. Khan,Aetna,2787,2662.07,Paid,Missing Documentation,98
+2025-10-17,Dr. Ahmed,Cigna,1104,929.36,Paid,,2
+2026-02-24,Dr. Hassan,Blue Cross,2288,1947.96,Paid,Duplicate Claim,79
+2026-07-07,Dr. Hassan,Medicare,1668,0.0,Pending,Missing Documentation,23
+2026-06-21,Dr. Fatima,UnitedHealth,764,724.47,Paid,Eligibility,5
+2025-11-10,Dr. Ali,Medicaid,767,712.63,Paid,Prior Authorization,37
+2025-11-03,Dr. Ali,Aetna,697,615.26,Paid,,42
+2025-12-08,Dr. Hassan,UnitedHealth,1505,0.0,Pending,,64
+2025-07-24,Dr. Khan,Cigna,2782,0.0,Pending,,80
+2026-01-22,Dr. Fatima,Medicare,2523,2177.14,Paid,Missing Documentation,100
+2025-10-06,Dr. Ahmed,Aetna,1725,1450.8,Paid,Prior Authorization,42
+2025-08-18,Dr. Khan,Medicaid,2835,2787.04,Paid,,35
+2025-07-30,Dr. Fatima,UnitedHealth,325,288.34,Paid,Duplicate Claim,89
+2026-06-26,Dr. Ali,UnitedHealth,2243,1875.54,Paid,Duplicate Claim,76
+2025-11-21,Dr. Fatima,Aetna,1624,1481.78,Paid,Eligibility,46
+2026-07-06,Dr. Ali,Medicaid,1913,1806.96,Paid,Prior Authorization,37
+2025-10-23,Dr. Ahmed,Blue Cross,2837,0.0,Denied,Eligibility,44
+2025-08-10,Dr. Ahmed,Medicare,1157,947.51,Paid,,38
+2025-07-31,Dr. Hassan,Medicaid,1541,0.0,Denied,,59
+2025-11-21,Dr. Khan,Medicare,1990,0.0,Pending,,100
+2026-05-26,Dr. Ali,Aetna,1826,1761.69,Paid,,100
+2026-07-08,Dr. Hassan,Medicare,456,414.06,Paid,Duplicate Claim,19
+2026-01-19,Dr. Ali,Medicaid,422,390.15,Paid,Duplicate Claim,112
+2025-10-26,Dr. Ahmed,Aetna,1013,979.92,Paid,Prior Authorization,110
+2026-01-26,Dr. Fatima,Cigna,2970,2949.82,Paid,Duplicate Claim,55
+2025-10-08,Dr. Fatima,Medicaid,636,575.49,Paid,Prior Authorization,97
+2026-06-13,Dr. Hassan,Blue Cross,1066,854.93,Paid,,100
+2026-03-13,Dr. Fatima,Aetna,2588,2250.98,Paid,,71
+2025-08-04,Dr. Ahmed,Blue Cross,1251,1187.76,Paid,,103
+2025-11-08,Dr. Fatima,Medicare,2343,2245.78,Paid,,21
+2026-04-06,Dr. Fatima,Medicare,1759,0.0,Pending,,41
+2025-11-08,Dr. Fatima,UnitedHealth,2862,0.0,Denied,Prior Authorization,103
+2025-11-29,Dr. Khan,Blue Cross,425,345.21,Paid,,58
+2026-07-21,Dr. Fatima,Medicare,1449,0.0,Pending,Prior Authorization,73
+2025-10-31,Dr. Khan,UnitedHealth,1276,1192.29,Paid,,65
+2025-09-19,Dr. Ali,UnitedHealth,1456,1250.59,Paid,Missing Documentation,78
+2025-12-15,Dr. Fatima,Cigna,898,727.91,Paid,Coding Error,26
+2026-01-18,Dr. Khan,Medicaid,920,847.85,Paid,Coding Error,4
+2026-05-22,Dr. Fatima,Medicare,1799,0.0,Pending,Eligibility,101
+2025-10-09,Dr. Ahmed,Medicaid,2748,2500.55,Paid,Duplicate Claim,100
+2026-02-06,Dr. Hassan,Medicare,2996,2820.32,Paid,Duplicate Claim,88
+2026-03-06,Dr. Ahmed,UnitedHealth,2534,0.0,Pending,Eligibility,74
+2026-04-07,Dr. Ahmed,Medicare,1785,1596.04,Paid,Missing Documentation,78
+2025-11-05,Dr. Ali,Medicaid,850,762.09,Paid,,40
+2025-11-19,Dr. Ali,Aetna,2324,2298.19,Paid,Missing Documentation,98
+2025-08-24,Dr. Hassan,Cigna,301,290.08,Paid,Prior Authorization,23
+2026-02-12,Dr. Ahmed,Medicaid,2302,1955.69,Paid,,22
+2025-09-26,Dr. Khan,Blue Cross,972,849.78,Paid,Duplicate Claim,48
+2026-05-01,Dr. Ahmed,Cigna,352,336.48,Paid,,58
+2025-10-25,Dr. Khan,Blue Cross,2863,2488.32,Paid,,52
+2026-02-01,Dr. Khan,Aetna,1922,1739.28,Paid,Prior Authorization,105
+2025-12-15,Dr. Ali,Medicaid,2847,2406.7,Paid,,56
+2025-12-03,Dr. Hassan,UnitedHealth,2978,2539.09,Paid,Eligibility,47
+2025-12-18,Dr. Khan,UnitedHealth,1180,0.0,Pending,,105
+2026-07-20,Dr. Ali,UnitedHealth,699,641.06,Paid,Prior Authorization,38
+2026-05-31,Dr. Khan,Aetna,2753,2365.47,Paid,,2
+2026-03-27,Dr. Hassan,Medicaid,570,464.3,Paid,,82
+2025-07-30,Dr. Hassan,Medicare,1764,1533.14,Paid,Duplicate Claim,60
+2026-01-20,Dr. Fatima,Medicaid,1986,1830.09,Paid,,80
+2026-06-21,Dr. Ali,Blue Cross,521,441.1,Paid,Coding Error,81
+2026-04-30,Dr. Ali,Blue Cross,1689,1470.01,Paid,,10
+2026-03-17,Dr. Khan,UnitedHealth,2125,1987.74,Paid,,1
+2026-07-07,Dr. Ahmed,Medicaid,155,135.86,Paid,Duplicate Claim,103
+2026-06-12,Dr. Khan,Medicaid,1066,917.35,Paid,,1
+2026-05-04,Dr. Hassan,Medicare,2732,2319.22,Paid,,9
+2026-06-04,Dr. Khan,Blue Cross,204,172.11,Paid,Prior Authorization,73
+2025-08-25,Dr. Fatima,Aetna,745,661.23,Paid,,37
+2025-09-06,Dr. Fatima,Medicare,586,0.0,Pending,,64
+2025-08-23,Dr. Fatima,Medicare,829,0.0,Pending,,66
+2025-09-09,Dr. Ali,Aetna,897,718.34,Paid,Duplicate Claim,4
+2026-05-11,Dr. Khan,Medicare,136,134.47,Paid,Duplicate Claim,66
+2025-10-29,Dr. Ali,Aetna,2692,2578.92,Paid,Prior Authorization,10
+2026-03-05,Dr. Ahmed,Cigna,932,0.0,Pending,,57
+2026-06-27,Dr. Ahmed,Cigna,1960,1786.69,Paid,Missing Documentation,91
+2025-09-29,Dr. Hassan,Medicare,1285,0.0,Denied,,97
+2026-01-22,Dr. Khan,Aetna,1942,1578.65,Paid,,36
+2026-02-03,Dr. Khan,Cigna,2904,0.0,Pending,Coding Error,28
+2026-05-02,Dr. Ali,Medicaid,1831,1525.12,Paid,Coding Error,29
+2026-03-04,Dr. Khan,UnitedHealth,2786,0.0,Denied,,39
+2025-08-03,Dr. Fatima,Cigna,376,324.56,Paid,Prior Authorization,105
+2026-03-13,Dr. Ahmed,UnitedHealth,645,0.0,Pending,Prior Authorization,61
+2025-09-22,Dr. Ahmed,Medicare,1389,1221.9,Paid,,28
+2026-04-28,Dr. Fatima,Blue Cross,2882,0.0,Denied,,113
+2025-07-29,Dr. Ahmed,Aetna,1933,1753.39,Paid,Duplicate Claim,21
+2025-11-29,Dr. Ahmed,Blue Cross,816,779.12,Paid,,48
+2026-03-15,Dr. Hassan,Medicaid,1068,866.09,Paid,Missing Documentation,3
+2025-12-22,Dr. Hassan,UnitedHealth,2412,0.0,Pending,,43
+2026-03-03,Dr. Khan,UnitedHealth,1709,0.0,Denied,,32
+2026-01-26,Dr. Khan,Medicare,1229,1219.71,Paid,Coding Error,44
+2026-05-10,Dr. Fatima,UnitedHealth,2667,0.0,Denied,,111
+2025-10-14,Dr. Hassan,Cigna,1289,1072.29,Paid,Coding Error,82
+2026-04-27,Dr. Ahmed,Medicaid,2325,1899.71,Paid,,31
+2026-02-03,Dr. Hassan,UnitedHealth,1677,1511.82,Paid,Prior Authorization,17
+2025-11-18,Dr. Ahmed,Medicaid,2422,0.0,Pending,Missing Documentation,104
+2026-01-29,Dr. Ahmed,Blue Cross,1198,975.63,Paid,Missing Documentation,100
+2025-11-27,Dr. Khan,Aetna,2170,1872.69,Paid,,41
+2026-02-11,Dr. Khan,Blue Cross,1072,929.7,Paid,Missing Documentation,112
+2026-03-11,Dr. Hassan,Medicare,1353,1290.43,Paid,Missing Documentation,65
+2026-01-12,Dr. Khan,Blue Cross,2124,1926.75,Paid,Eligibility,12
+2025-08-31,Dr. Ahmed,Blue Cross,2611,2433.12,Paid,,20
+2026-05-30,Dr. Khan,UnitedHealth,2386,2139.48,Paid,,30
+2025-10-14,Dr. Ali,Blue Cross,352,284.26,Paid,Eligibility,81
+2026-01-24,Dr. Ali,Aetna,327,0.0,Pending,Coding Error,76
+2025-09-20,Dr. Ali,Cigna,2115,1783.1,Paid,Duplicate Claim,4
+2026-02-15,Dr. Hassan,Blue Cross,2831,2498.04,Paid,Coding Error,52
+2026-07-21,Dr. Ali,Medicare,951,0.0,Pending,Missing Documentation,4
+2026-05-17,Dr. Khan,Medicaid,1199,1132.33,Paid,Prior Authorization,92
+2025-11-16,Dr. Fatima,Medicare,2973,2941.86,Paid,Coding Error,66
+2026-03-05,Dr. Ahmed,Medicaid,1505,1448.4,Paid,,15
+2025-11-28,Dr. Fatima,Medicaid,2499,2440.14,Paid,,81
+2026-05-13,Dr. Hassan,Blue Cross,1347,0.0,Denied,,16
+2025-08-09,Dr. Ahmed,Blue Cross,1112,973.02,Paid,Eligibility,33
+2026-03-04,Dr. Khan,Cigna,1921,0.0,Denied,Prior Authorization,78
+2026-05-25,Dr. Hassan,UnitedHealth,705,657.13,Paid,Eligibility,46
+2026-01-13,Dr. Ahmed,Cigna,2396,2125.75,Paid,Eligibility,88
+2025-12-05,Dr. Ahmed,Aetna,1436,1294.9,Paid,Missing Documentation,98
+2026-05-28,Dr. Ahmed,Medicaid,2972,2632.86,Paid,,61
+2026-01-31,Dr. Hassan,UnitedHealth,1906,1789.31,Paid,Missing Documentation,82
+2026-02-25,Dr. Ahmed,Blue Cross,2726,2628.32,Paid,Missing Documentation,27
+2025-08-16,Dr. Fatima,Blue Cross,1748,1639.63,Paid,Coding Error,119
+2026-01-25,Dr. Ahmed,UnitedHealth,175,148.71,Paid,Missing Documentation,39
+2026-03-16,Dr. Ahmed,Medicare,2789,2242.95,Paid,,64
+2026-01-21,Dr. Ali,Aetna,1332,1283.19,Paid,Duplicate Claim,55
+2026-03-12,Dr. Hassan,Aetna,720,681.51,Paid,Duplicate Claim,36
+2026-03-31,Dr. Hassan,Medicaid,1878,1609.18,Paid,Missing Documentation,109
+2026-01-14,Dr. Khan,Medicaid,2511,0.0,Pending,Coding Error,63
+2026-02-07,Dr. Ahmed,Blue Cross,2684,0.0,Pending,Missing Documentation,50
+2026-06-26,Dr. Ahmed,Medicaid,1825,1711.2,Paid,,81
+2026-01-06,Dr. Ahmed,Blue Cross,380,367.04,Paid,,23
+2026-01-19,Dr. Ahmed,UnitedHealth,620,510.85,Paid,,90
+2026-06-21,Dr. Hassan,Medicaid,1821,1462.33,Paid,Duplicate Claim,111
+2026-03-19,Dr. Khan,Blue Cross,1306,1146.17,Paid,,87
+2026-04-18,Dr. Fatima,UnitedHealth,596,479.12,Paid,,68
+2025-12-21,Dr. Ahmed,Aetna,2531,0.0,Denied,,103
+2025-08-06,Dr. Hassan,UnitedHealth,1315,1165.82,Paid,,24
+2026-01-15,Dr. Khan,Aetna,1872,1729.2,Paid,Missing Documentation,52
+2026-04-13,Dr. Fatima,Medicaid,2724,2373.54,Paid,,47
+2025-09-28,Dr. Hassan,Medicare,842,0.0,Pending,Prior Authorization,74
+2026-04-23,Dr. Ahmed,UnitedHealth,1399,1255.2,Paid,Prior Authorization,28
+2025-08-09,Dr. Ali,Medicare,1281,1051.73,Paid,,101
+2026-05-18,Dr. Ahmed,UnitedHealth,2479,0.0,Pending,Prior Authorization,63
+2026-05-14,Dr. Ali,UnitedHealth,208,188.62,Paid,,16
+2026-03-03,Dr. Ali,UnitedHealth,377,326.07,Paid,Prior Authorization,114
+2026-03-02,Dr. Khan,Blue Cross,1707,1420.97,Paid,Missing Documentation,109
+2026-02-16,Dr. Ahmed,Medicare,1900,0.0,Denied,,35
+2026-07-07,Dr. Ahmed,Blue Cross,2936,2504.3,Paid,Duplicate Claim,96
+2026-01-24,Dr. Hassan,Blue Cross,873,711.87,Paid,,28
+2026-03-17,Dr. Ali,Blue Cross,834,804.05,Paid,Eligibility,116
+2025-12-20,Dr. Khan,UnitedHealth,2732,2584.41,Paid,Prior Authorization,51
+2026-07-23,Dr. Ali,Medicaid,1196,1106.11,Paid,Duplicate Claim,13
+2026-01-06,Dr. Ali,Medicare,2446,0.0,Pending,,24
+2025-09-07,Dr. Khan,Cigna,2685,0.0,Denied,,106
+2025-08-06,Dr. Fatima,Blue Cross,1024,903.08,Paid,,74
+2025-11-06,Dr. Ahmed,Aetna,1090,910.32,Paid,Eligibility,26
+2025-12-26,Dr. Ahmed,Medicare,811,727.69,Paid,Prior Authorization,3
+2026-06-20,Dr. Khan,Blue Cross,1831,1745.37,Paid,Duplicate Claim,47
+2025-11-09,Dr. Ahmed,Blue Cross,458,376.72,Paid,Coding Error,119
+2026-05-18,Dr. Khan,UnitedHealth,1858,1628.78,Paid,Missing Documentation,23
+2026-01-19,Dr. Ahmed,Cigna,395,0.0,Pending,Coding Error,57
+2025-08-02,Dr. Fatima,Blue Cross,2391,2175.16,Paid,Eligibility,92
+2025-09-23,Dr. Hassan,Aetna,1344,0.0,Pending,Duplicate Claim,18
+2026-05-22,Dr. Khan,Aetna,2355,2244.15,Paid,Missing Documentation,3
+2026-03-27,Dr. Hassan,UnitedHealth,2929,2597.47,Paid,Duplicate Claim,27
+2026-04-16,Dr. Khan,Aetna,1097,982.94,Paid,Duplicate Claim,4
+2025-09-06,Dr. Ali,UnitedHealth,1280,1237.3,Paid,,36
+2026-03-11,Dr. Fatima,Aetna,1691,1596.43,Paid,Eligibility,1
+2026-02-04,Dr. Fatima,Blue Cross,729,630.84,Paid,,116
+2025-11-18,Dr. Khan,Cigna,1073,1050.61,Paid,,64
+2026-06-14,Dr. Ahmed,Medicaid,1066,868.09,Paid,Coding Error,60
+2026-05-25,Dr. Ahmed,Medicaid,356,0.0,Denied,Missing Documentation,26
+2026-04-28,Dr. Ahmed,Medicaid,560,517.73,Paid,Missing Documentation,49
+2026-05-09,Dr. Ahmed,Cigna,1171,1158.92,Paid,Coding Error,88
+2025-10-11,Dr. Ahmed,UnitedHealth,2147,1745.19,Paid,,49
+2025-08-07,Dr. Khan,Aetna,1782,1555.37,Paid,Duplicate Claim,17
+2025-09-05,Dr. Ahmed,Cigna,2079,1818.52,Paid,,50
+2026-05-20,Dr. Ahmed,UnitedHealth,2790,2499.85,Paid,Coding Error,46
+2025-09-28,Dr. Hassan,Medicaid,1293,1112.83,Paid,Duplicate Claim,64
+2026-04-13,Dr. Ahmed,Medicaid,2521,2077.26,Paid,,89
+2026-07-13,Dr. Ali,Medicaid,1599,1300.95,Paid,Missing Documentation,109
+2026-04-29,Dr. Hassan,Blue Cross,1304,1302.11,Paid,,119
+2026-05-23,Dr. Hassan,Medicaid,572,565.6,Paid,Eligibility,119
+2026-06-30,Dr. Ali,Aetna,482,397.96,Paid,Eligibility,22
+2025-10-24,Dr. Fatima,Medicaid,216,213.44,Paid,,35
+2026-05-29,Dr. Ahmed,Cigna,743,740.76,Paid,,81
+2026-04-28,Dr. Hassan,Aetna,2832,2665.47,Paid,,43
+2026-03-14,Dr. Fatima,Medicare,1544,1461.14,Paid,Missing Documentation,77
+2026-01-12,Dr. Khan,UnitedHealth,558,546.94,Paid,Duplicate Claim,43
+2025-08-07,Dr. Ali,Medicaid,2785,2295.38,Paid,,13
+2026-05-26,Dr. Khan,Medicare,1398,1309.61,Paid,Prior Authorization,2
+2026-05-11,Dr. Ali,Aetna,2389,1956.47,Paid,Prior Authorization,31
+2025-09-16,Dr. Hassan,Medicare,787,0.0,Pending,,81
+2026-01-04,Dr. Ahmed,UnitedHealth,222,208.22,Paid,,95
+2026-02-25,Dr. Fatima,Blue Cross,1903,1676.36,Paid,,59
+2025-11-07,Dr. Ahmed,Aetna,1287,1115.25,Paid,Prior Authorization,90
+2025-10-29,Dr. Fatima,Blue Cross,2087,1775.68,Paid,Coding Error,52
+2026-07-07,Dr. Ali,Medicare,1461,0.0,Pending,,44
+2025-10-02,Dr. Fatima,Cigna,771,647.06,Paid,Coding Error,116
+2025-12-17,Dr. Hassan,Blue Cross,1174,1062.97,Paid,Duplicate Claim,23
+2026-04-18,Dr. Ali,Cigna,2276,1908.86,Paid,,3
+2026-05-11,Dr. Fatima,Medicare,2614,2237.38,Paid,,113
+2025-10-15,Dr. Ali,Medicare,1905,1888.1,Paid,Missing Documentation,23
+2026-07-11,Dr. Fatima,UnitedHealth,551,453.61,Paid,Missing Documentation,99
+2025-12-16,Dr. Hassan,Blue Cross,2441,2378.19,Paid,,116
+2026-01-15,Dr. Hassan,Aetna,2937,2886.37,Paid,Eligibility,113
+2025-09-11,Dr. Ahmed,Aetna,1519,1401.78,Paid,Coding Error,70
+2026-06-18,Dr. Ahmed,Medicaid,1794,0.0,Pending,,77
+2026-01-06,Dr. Fatima,Blue Cross,1687,1353.91,Paid,,52
+2026-02-18,Dr. Ahmed,UnitedHealth,566,498.49,Paid,,69
+2025-10-13,Dr. Fatima,Medicare,166,0.0,Pending,Prior Authorization,30
+2026-07-01,Dr. Fatima,Aetna,1731,1409.93,Paid,Duplicate Claim,79
+2025-11-28,Dr. Ahmed,Aetna,231,0.0,Pending,Coding Error,38
+2025-11-03,Dr. Khan,Aetna,1605,1502.75,Paid,,72
+2025-11-21,Dr. Khan,UnitedHealth,1911,1717.55,Paid,,42
+2025-07-26,Dr. Hassan,Blue Cross,111,106.2,Paid,Missing Documentation,106
+2026-04-29,Dr. Khan,Medicaid,790,0.0,Denied,,98
+2026-06-06,Dr. Khan,Medicare,2628,2547.04,Paid,,89
+2026-02-14,Dr. Fatima,Cigna,2962,2639.83,Paid,Duplicate Claim,42
+2026-05-14,Dr. Ali,Medicaid,1644,1602.87,Paid,,106
+2025-10-21,Dr. Ahmed,Cigna,2637,0.0,Denied,Missing Documentation,102
+2025-10-10,Dr. Ali,Blue Cross,807,0.0,Pending,,26
+2026-01-11,Dr. Fatima,Medicare,539,481.31,Paid,Missing Documentation,97
+2026-03-18,Dr. Khan,Medicaid,2558,2316.82,Paid,,37
+2025-11-03,Dr. Hassan,Blue Cross,2730,2457.17,Paid,Duplicate Claim,72
+2025-08-27,Dr. Khan,Blue Cross,1692,0.0,Pending,,84
+2025-09-29,Dr. Hassan,Blue Cross,1307,1240.69,Paid,,97
+2026-03-03,Dr. Ahmed,Aetna,2643,2495.05,Paid,,44
+2026-05-10,Dr. Ahmed,Aetna,1131,1091.33,Paid,Eligibility,41
+2025-07-29,Dr. Khan,Aetna,2664,2607.93,Paid,,54
+2026-05-10,Dr. Fatima,Blue Cross,1259,1258.35,Paid,,50
+2026-02-16,Dr. Fatima,Aetna,1668,0.0,Denied,Prior Authorization,16
+2026-07-20,Dr. Ali,Medicare,2146,1861.2,Paid,Missing Documentation,32
+2025-09-10,Dr. Fatima,Cigna,2697,2178.68,Paid,,101
+2026-06-30,Dr. Fatima,Cigna,1982,1926.91,Paid,Missing Documentation,3
+2026-06-09,Dr. Hassan,Aetna,1862,1743.22,Paid,Missing Documentation,82
+2025-08-30,Dr. Fatima,Aetna,1045,956.57,Paid,Duplicate Claim,98
+2026-07-15,Dr. Ali,Medicaid,2214,0.0,Pending,,109
+2025-11-23,Dr. Ahmed,Medicare,1056,849.84,Paid,Missing Documentation,98
+2025-09-16,Dr. Ahmed,Medicaid,794,661.36,Paid,,49
+2025-12-27,Dr. Fatima,Blue Cross,2071,1686.72,Paid,Eligibility,43
+2026-02-03,Dr. Ahmed,Aetna,1968,0.0,Pending,,117
+2025-11-18,Dr. Fatima,Medicare,2096,1742.37,Paid,,30
+2025-08-25,Dr. Khan,Medicare,188,177.72,Paid,Duplicate Claim,43
+2025-08-27,Dr. Ahmed,Medicare,309,282.91,Paid,Coding Error,77
+2025-11-09,Dr. Hassan,Blue Cross,868,857.16,Paid,Duplicate Claim,67
+2026-07-09,Dr. Ahmed,Cigna,641,608.59,Paid,Eligibility,40
+2026-05-17,Dr. Ali,Blue Cross,1572,1489.74,Paid,,43
+2026-04-26,Dr. Fatima,UnitedHealth,242,215.96,Paid,,97
+2026-04-29,Dr. Ali,Medicaid,2231,1829.41,Paid,Duplicate Claim,68
+2025-07-31,Dr. Ali,Aetna,2135,1710.79,Paid,Coding Error,77
+2025-09-27,Dr. Khan,Medicare,1841,1575.7,Paid,Prior Authorization,27
+2026-02-25,Dr. Fatima,Medicare,1193,0.0,Denied,,50
+2026-05-10,Dr. Fatima,UnitedHealth,1247,0.0,Denied,Duplicate Claim,38
+2026-06-30,Dr. Ali,Blue Cross,1171,1102.5,Paid,Duplicate Claim,86
+2025-08-16,Dr. Ahmed,UnitedHealth,1959,0.0,Denied,,80
+2025-10-04,Dr. Ali,Blue Cross,2754,2706.97,Paid,Duplicate Claim,14
+2026-04-05,Dr. Khan,Blue Cross,123,102.43,Paid,,41
+2026-06-12,Dr. Khan,UnitedHealth,1573,1491.72,Paid,,36
+2026-07-12,Dr. Hassan,Medicaid,2796,0.0,Pending,,42
+2025-10-29,Dr. Khan,Medicaid,1440,1428.88,Paid,,116
+2025-09-27,Dr. Ali,Cigna,691,564.92,Paid,Missing Documentation,71
+2025-08-03,Dr. Ali,Aetna,628,601.36,Paid,Prior Authorization,62
+2026-07-20,Dr. Fatima,UnitedHealth,537,456.34,Paid,,119
+2025-09-05,Dr. Fatima,Medicare,2614,2483.09,Paid,,70
+2026-04-10,Dr. Hassan,Medicaid,327,0.0,Pending,Prior Authorization,83
+2026-02-21,Dr. Fatima,Medicare,401,0.0,Denied,,19
+2026-06-14,Dr. Ali,Blue Cross,1504,1332.21,Paid,,105
+2025-12-29,Dr. Ahmed,Cigna,2886,2802.78,Paid,Prior Authorization,97
+2026-03-01,Dr. Fatima,Aetna,1267,0.0,Pending,Coding Error,101
+2025-10-05,Dr. Hassan,Blue Cross,1794,1741.82,Paid,,26
+2026-07-01,Dr. Ahmed,Aetna,842,691.01,Paid,Duplicate Claim,31
+2025-11-12,Dr. Fatima,Blue Cross,1992,1842.35,Paid,,17
+2026-07-05,Dr. Fatima,Blue Cross,837,791.4,Paid,,11
+2026-03-09,Dr. Hassan,UnitedHealth,416,365.45,Paid,,118
+2025-09-14,Dr. Ali,Medicare,1289,1201.83,Paid,Eligibility,62
+2025-11-08,Dr. Ali,UnitedHealth,2467,2402.41,Paid,,43
+2025-08-23,Dr. Ali,Medicaid,997,965.59,Paid,,7
+2025-10-08,Dr. Hassan,Blue Cross,1799,1671.54,Paid,Coding Error,66
+2026-02-19,Dr. Ahmed,Blue Cross,333,281.81,Paid,Prior Authorization,95
+2026-01-23,Dr. Ahmed,Medicaid,691,632.24,Paid,,18
+2025-08-26,Dr. Ali,Aetna,935,749.58,Paid,Duplicate Claim,3
+2025-08-24,Dr. Khan,Cigna,1012,919.62,Paid,Eligibility,4
+2025-08-03,Dr. Ali,UnitedHealth,2140,1735.13,Paid,,88
+2025-12-05,Dr. Ali,Blue Cross,1215,1092.08,Paid,,111
+2026-02-11,Dr. Ahmed,Blue Cross,2248,1866.06,Paid,Prior Authorization,35
+2025-10-26,Dr. Fatima,Medicaid,1296,1256.8,Paid,Missing Documentation,76
+2025-12-24,Dr. Ahmed,Blue Cross,2034,1793.16,Paid,,55
+2026-04-05,Dr. Fatima,Aetna,432,349.46,Paid,Prior Authorization,87
+2026-04-02,Dr. Ali,Blue Cross,2751,2685.33,Paid,,7
+2026-01-09,Dr. Khan,Medicare,2148,2048.75,Paid,,102
+2025-11-04,Dr. Hassan,Blue Cross,1604,1595.0,Paid,,36
+2026-03-19,Dr. Ali,Medicare,1190,0.0,Pending,Duplicate Claim,97
+2026-06-04,Dr. Fatima,Medicare,567,0.0,Pending,Duplicate Claim,79
+2026-04-08,Dr. Fatima,Medicare,1001,823.45,Paid,Eligibility,79
+2025-11-09,Dr. Ahmed,Aetna,563,513.82,Paid,,17
+2026-05-11,Dr. Fatima,Medicaid,596,0.0,Denied,Prior Authorization,19
+2025-08-10,Dr. Khan,Medicaid,1792,1495.03,Paid,,102
+2026-07-17,Dr. Hassan,Medicaid,354,0.0,Denied,Prior Authorization,100
+2026-04-04,Dr. Fatima,Cigna,1856,1849.28,Paid,Coding Error,55
+2026-02-19,Dr. Khan,Medicare,609,538.4,Paid,,53
+2026-01-12,Dr. Fatima,Aetna,1793,1447.27,Paid,Missing Documentation,73
+2026-02-26,Dr. Fatima,Medicare,396,372.97,Paid,,91
+2025-10-07,Dr. Khan,Medicare,2558,2270.82,Paid,,61
+2026-06-26,Dr. Fatima,Cigna,1561,1291.57,Paid,,50
+2026-04-16,Dr. Hassan,Aetna,2341,1970.9,Paid,,84
+2026-04-09,Dr. Fatima,Aetna,764,716.22,Paid,Duplicate Claim,23
+2026-01-12,Dr. Khan,Blue Cross,915,0.0,Pending,,78
+2026-06-04,Dr. Hassan,Blue Cross,871,0.0,Pending,Eligibility,119
+2025-09-24,Dr. Khan,Cigna,1323,1221.85,Paid,Coding Error,106
+2025-10-23,Dr. Khan,Medicare,2861,2481.32,Paid,Missing Documentation,52
+2026-04-28,Dr. Fatima,Medicare,2309,0.0,Pending,Duplicate Claim,71
+2026-03-06,Dr. Ali,UnitedHealth,2985,2752.71,Paid,Missing Documentation,93
+2026-05-30,Dr. Ali,UnitedHealth,572,0.0,Pending,Duplicate Claim,111
+2025-09-17,Dr. Ahmed,UnitedHealth,1645,1333.36,Paid,,26
+2025-11-11,Dr. Fatima,Blue Cross,1906,1808.46,Paid,,72
+2026-05-05,Dr. Hassan,Medicare,1625,1357.09,Paid,,51
+2026-03-20,Dr. Hassan,Cigna,1961,1820.9,Paid,,4
+2026-01-25,Dr. Ahmed,UnitedHealth,274,272.12,Paid,Prior Authorization,49
+2026-06-14,Dr. Khan,Blue Cross,2675,2445.31,Paid,,33
+2025-11-30,Dr. Ahmed,Medicaid,893,773.55,Paid,,79
+2026-02-16,Dr. Ali,Aetna,1901,1705.6,Paid,Missing Documentation,114
+2025-11-29,Dr. Hassan,Blue Cross,391,0.0,Pending,,119
+2025-08-12,Dr. Hassan,Medicaid,1218,0.0,Pending,Eligibility,77
+2026-04-19,Dr. Khan,Blue Cross,307,280.05,Paid,Duplicate Claim,93
+2026-07-18,Dr. Ahmed,Cigna,870,729.24,Paid,Missing Documentation,72
+2025-12-26,Dr. Khan,Blue Cross,2894,0.0,Pending,Missing Documentation,100
+2025-09-16,Dr. Khan,Medicaid,2981,2793.06,Paid,,110
+2025-10-25,Dr. Ahmed,Cigna,377,357.42,Paid,,16
+2026-02-19,Dr. Fatima,Medicare,508,0.0,Pending,Prior Authorization,105
+2026-05-04,Dr. Fatima,Blue Cross,423,338.42,Paid,Missing Documentation,61
+2026-02-03,Dr. Khan,Medicaid,1735,1658.1,Paid,Coding Error,62
+2025-10-05,Dr. Hassan,Medicare,1303,1058.96,Paid,Missing Documentation,93
+2026-03-26,Dr. Fatima,UnitedHealth,1785,1740.51,Paid,,10
+2025-11-11,Dr. Ali,Blue Cross,745,701.59,Paid,Missing Documentation,59
+2026-04-20,Dr. Ali,Blue Cross,2966,2489.52,Paid,,99
+2026-02-13,Dr. Ali,Medicaid,1965,0.0,Pending,Coding Error,19
+2025-10-27,Dr. Ahmed,Medicaid,1349,1273.99,Paid,Prior Authorization,54
+2025-11-11,Dr. Ali,Medicare,2842,0.0,Pending,,68
+2026-03-17,Dr. Hassan,Aetna,381,327.54,Paid,Eligibility,1
+2026-03-27,Dr. Ahmed,Aetna,1131,935.14,Paid,,93
+2026-01-06,Dr. Ahmed,Medicare,2008,2004.38,Paid,Eligibility,17
+2026-02-23,Dr. Ahmed,Medicaid,1429,1202.44,Paid,Duplicate Claim,88
+2026-04-24,Dr. Ali,Medicaid,2864,2621.82,Paid,,33
+2025-09-03,Dr. Khan,Medicaid,2165,1907.91,Paid,,64
+2026-02-21,Dr. Khan,Cigna,1636,1408.73,Paid,Prior Authorization,56
+2025-11-20,Dr. Hassan,Aetna,1800,0.0,Pending,,26
+2025-08-10,Dr. Fatima,UnitedHealth,1235,1229.73,Paid,Eligibility,34
+2026-01-31,Dr. Khan,Blue Cross,2922,2537.39,Paid,Missing Documentation,106
+2026-06-11,Dr. Hassan,Medicare,158,145.02,Paid,Prior Authorization,93
+2026-01-14,Dr. Ali,Medicaid,2403,2185.78,Paid,Coding Error,62
+2025-10-16,Dr. Khan,UnitedHealth,2535,2030.69,Paid,Duplicate Claim,24
+2026-04-04,Dr. Fatima,Blue Cross,1445,1252.22,Paid,Coding Error,37
+2026-06-16,Dr. Hassan,Cigna,584,512.84,Paid,,116
+2025-09-09,Dr. Ahmed,Aetna,1543,1499.75,Paid,Duplicate Claim,117
+2025-09-03,Dr. Hassan,Cigna,2715,2430.48,Paid,,63
+2025-10-12,Dr. Ahmed,Cigna,685,598.02,Paid,Eligibility,78
+2026-03-02,Dr. Ahmed,Cigna,1838,1686.89,Paid,,56
+2026-04-08,Dr. Khan,Medicare,2242,2066.59,Paid,Duplicate Claim,9
+2026-01-05,Dr. Ali,Blue Cross,1779,1711.53,Paid,Coding Error,74
+2025-09-06,Dr. Fatima,Medicare,1655,1347.47,Paid,,40
+2025-10-06,Dr. Khan,Aetna,1301,0.0,Pending,Eligibility,47
+2026-02-07,Dr. Ali,Blue Cross,1071,1020.5,Paid,,67
+2026-05-25,Dr. Fatima,UnitedHealth,442,377.53,Paid,,67
+2026-06-04,Dr. Ali,Aetna,2269,0.0,Denied,,103
+2025-08-26,Dr. Fatima,Medicaid,481,437.09,Paid,Coding Error,83
+2025-12-03,Dr. Fatima,Medicaid,1459,1330.21,Paid,Coding Error,109
+2026-05-18,Dr. Hassan,Blue Cross,2317,0.0,Pending,,114
+2026-02-26,Dr. Ali,Cigna,2488,0.0,Pending,Prior Authorization,90
+2025-11-23,Dr. Hassan,UnitedHealth,2520,0.0,Pending,Coding Error,14
+2025-10-02,Dr. Khan,Aetna,782,0.0,Pending,Eligibility,19
+2026-01-12,Dr. Fatima,Medicaid,2382,0.0,Pending,Missing Documentation,64
+2025-08-01,Dr. Fatima,Medicare,1147,971.14,Paid,,98
+2026-01-04,Dr. Ali,Aetna,447,428.21,Paid,,95
+2025-08-27,Dr. Khan,Medicaid,2945,2672.96,Paid,,42
+2026-01-11,Dr. Ali,UnitedHealth,750,686.33,Paid,Duplicate Claim,115
+2026-05-23,Dr. Hassan,Medicaid,1978,0.0,Pending,Missing Documentation,108
+2026-03-29,Dr. Fatima,Medicaid,278,0.0,Denied,Duplicate Claim,19
+2025-09-19,Dr. Ali,Cigna,1718,1645.21,Paid,Eligibility,40
+2025-09-19,Dr. Fatima,Medicare,2368,0.0,Pending,Eligibility,42
+2025-08-13,Dr. Fatima,Cigna,2522,2289.16,Paid,Eligibility,7
+2026-03-12,Dr. Ali,Aetna,1672,1508.05,Paid,,115
+2025-12-17,Dr. Hassan,UnitedHealth,2447,2178.9,Paid,,8
+2025-12-22,Dr. Fatima,Cigna,2915,2766.86,Paid,Eligibility,58
+2026-01-15,Dr. Fatima,Aetna,583,547.78,Paid,Eligibility,11
+2025-08-08,Dr. Hassan,Medicaid,1048,1019.17,Paid,,100
+2025-11-01,Dr. Ali,Medicare,2787,2602.64,Paid,Missing Documentation,92
+2025-11-22,Dr. Ahmed,Medicaid,892,818.44,Paid,Duplicate Claim,48
+2025-09-30,Dr. Ahmed,Blue Cross,1777,1520.57,Paid,Prior Authorization,13
+2026-04-17,Dr. Ahmed,UnitedHealth,1580,0.0,Denied,,88
+2025-08-23,Dr. Ahmed,Medicaid,2803,2781.8,Paid,Prior Authorization,14
+2026-07-21,Dr. Fatima,Blue Cross,2846,0.0,Denied,,6
+2025-09-30,Dr. Hassan,Cigna,410,351.12,Paid,Duplicate Claim,59
+2026-03-23,Dr. Fatima,Medicare,2113,1965.13,Paid,Eligibility,45
+2026-06-20,Dr. Hassan,Medicare,176,155.57,Paid,Coding Error,71
+2025-11-04,Dr. Hassan,Cigna,2859,2419.62,Paid,,61
+2026-01-15,Dr. Ali,Aetna,856,0.0,Denied,,34
+2026-05-06,Dr. Ahmed,Aetna,2215,1833.71,Paid,,108
+2025-09-13,Dr. Khan,Medicaid,406,347.59,Paid,Eligibility,29
+2026-07-18,Dr. Fatima,Aetna,884,869.14,Paid,Coding Error,51
+2026-05-13,Dr. Fatima,Cigna,750,703.2,Paid,Missing Documentation,21
+2025-07-28,Dr. Fatima,Blue Cross,2997,2611.27,Paid,Prior Authorization,85
+2025-12-21,Dr. Ahmed,Blue Cross,2696,2446.58,Paid,,21
+2026-07-17,Dr. Fatima,Blue Cross,2296,2254.47,Paid,,43
+2026-06-16,Dr. Hassan,Medicare,524,435.15,Paid,,53
+2026-04-07,Dr. Hassan,Medicare,695,647.98,Paid,Eligibility,30
+2025-09-22,Dr. Hassan,Medicaid,2894,2509.29,Paid,Prior Authorization,12
+2026-01-22,Dr. Fatima,Blue Cross,1344,1321.04,Paid,,21
+2026-04-20,Dr. Khan,Cigna,2418,2263.03,Paid,Prior Authorization,93
+2025-07-28,Dr. Fatima,Aetna,2764,2707.29,Paid,Duplicate Claim,52
+2026-04-18,Dr. Fatima,Blue Cross,746,669.58,Paid,Missing Documentation,92
+2026-04-24,Dr. Khan,Medicaid,435,363.2,Paid,,114
+2025-11-05,Dr. Hassan,Medicare,2296,1987.79,Paid,Missing Documentation,84
+2026-03-07,Dr. Ahmed,Cigna,767,731.48,Paid,,17
+2026-03-28,Dr. Ahmed,Medicare,2210,2110.98,Paid,,83
+2026-05-04,Dr. Fatima,Blue Cross,1382,1271.82,Paid,Coding Error,65
+2025-11-03,Dr. Khan,Medicare,1644,1447.61,Paid,Prior Authorization,30
+2025-11-21,Dr. Ali,Aetna,2475,2181.97,Paid,Duplicate Claim,74
+2025-12-05,Dr. Fatima,Aetna,759,657.19,Paid,,58
+2026-05-11,Dr. Hassan,UnitedHealth,561,0.0,Denied,Coding Error,1
+2026-02-06,Dr. Ali,UnitedHealth,159,143.18,Paid,,60
+2026-06-20,Dr. Ahmed,Cigna,2693,0.0,Pending,Prior Authorization,72
+2025-09-04,Dr. Fatima,Aetna,2422,2053.9,Paid,Eligibility,109
+2026-02-13,Dr. Ali,Blue Cross,902,0.0,Pending,Duplicate Claim,77
+2026-04-24,Dr. Khan,Medicare,2279,2067.6,Paid,Prior Authorization,1
+2026-05-21,Dr. Hassan,Blue Cross,2719,2529.31,Paid,,34
+2026-04-02,Dr. Khan,UnitedHealth,1916,1738.64,Paid,,35
+2025-10-19,Dr. Ali,Medicaid,2025,1984.02,Paid,,38
+2026-02-24,Dr. Ali,Cigna,1664,1415.14,Paid,,55
+2026-03-10,Dr. Khan,Blue Cross,421,351.14,Paid,,28
+2026-04-11,Dr. Fatima,Blue Cross,2294,1839.44,Paid,,54
+2026-03-16,Dr. Fatima,UnitedHealth,1429,1233.41,Paid,,44
+2026-07-12,Dr. Ali,Cigna,1805,1539.23,Paid,Eligibility,81
+2026-05-23,Dr. Ali,Aetna,2602,2326.8,Paid,Missing Documentation,10
+2026-01-13,Dr. Fatima,Medicare,2249,1917.33,Paid,Eligibility,94
+2026-01-18,Dr. Hassan,UnitedHealth,974,936.2,Paid,Coding Error,99
+2026-06-02,Dr. Ahmed,Cigna,973,0.0,Pending,Coding Error,112
+2026-05-10,Dr. Hassan,Aetna,1415,1345.29,Paid,,49
+2025-10-04,Dr. Hassan,Aetna,1006,954.36,Paid,Prior Authorization,78
+2026-01-07,Dr. Fatima,Cigna,1253,1024.91,Paid,,23
+2025-10-12,Dr. Ali,Cigna,2449,1985.62,Paid,Missing Documentation,52
+2026-06-15,Dr. Ali,UnitedHealth,1031,850.28,Paid,Coding Error,64
+2026-03-25,Dr. Khan,Blue Cross,2649,2560.04,Paid,,102
+2025-10-20,Dr. Fatima,Medicaid,731,645.86,Paid,Missing Documentation,116
+2025-11-03,Dr. Fatima,Medicare,1021,831.12,Paid,Coding Error,46
+2025-08-07,Dr. Hassan,Medicaid,2626,2392.94,Paid,Coding Error,16
+2025-12-14,Dr. Hassan,UnitedHealth,957,818.92,Paid,,116
+2025-07-24,Dr. Fatima,UnitedHealth,637,565.13,Paid,,95
+2025-11-03,Dr. Ahmed,Medicaid,2456,2132.56,Paid,,20
+2026-01-15,Dr. Khan,Aetna,1747,1572.42,Paid,,44
+2026-07-23,Dr. Hassan,Medicaid,714,0.0,Denied,Coding Error,41
+2026-03-24,Dr. Ali,Medicaid,1157,972.59,Paid,,33
+2025-07-26,Dr. Fatima,Medicaid,1543,1376.23,Paid,Eligibility,112
+2025-08-12,Dr. Khan,Blue Cross,2363,2305.59,Paid,Eligibility,88
+2025-10-09,Dr. Ali,Medicaid,1604,1302.95,Paid,,109
+2026-06-15,Dr. Fatima,Aetna,1059,970.94,Paid,Missing Documentation,116
+2025-09-22,Dr. Fatima,Aetna,1776,0.0,Pending,,100
+2026-02-12,Dr. Ahmed,Medicare,1525,1376.17,Paid,Coding Error,49
+2026-02-14,Dr. Hassan,Medicaid,1465,1214.24,Paid,Duplicate Claim,119
+2026-06-18,Dr. Ali,UnitedHealth,1654,1357.86,Paid,Duplicate Claim,46
+2025-11-16,Dr. Ali,Cigna,1631,1531.58,Paid,Prior Authorization,18
+2025-08-10,Dr. Khan,Medicare,2054,1735.33,Paid,Prior Authorization,75
+2025-10-12,Dr. Fatima,Medicaid,670,642.32,Paid,,109
+2025-08-03,Dr. Ahmed,Medicaid,461,0.0,Denied,Duplicate Claim,102
+2026-06-19,Dr. Hassan,Medicaid,489,421.61,Paid,,91
+2025-10-19,Dr. Hassan,Cigna,706,0.0,Pending,Missing Documentation,63
+2025-08-16,Dr. Hassan,Aetna,1323,1078.27,Paid,,13
+2026-06-02,Dr. Ali,Medicaid,1886,1645.93,Paid,Duplicate Claim,12
+2025-10-06,Dr. Khan,Medicaid,652,577.43,Paid,,89
+2026-02-05,Dr. Ahmed,Medicare,1696,0.0,Pending,,44
+2026-06-29,Dr. Ahmed,Medicaid,2748,2536.52,Paid,,87
+2025-10-03,Dr. Hassan,Blue Cross,753,620.99,Paid,,103
+2026-04-06,Dr. Hassan,Medicare,2025,1866.83,Paid,Duplicate Claim,104
+2026-04-19,Dr. Ahmed,Blue Cross,2693,2673.82,Paid,Eligibility,87
+2026-01-16,Dr. Fatima,Medicare,1296,0.0,Pending,,97
+2025-12-05,Dr. Khan,Medicaid,2977,0.0,Pending,Coding Error,68
+2025-10-03,Dr. Khan,Medicaid,1293,1089.81,Paid,Missing Documentation,107
+2026-03-03,Dr. Ahmed,Medicare,2397,0.0,Denied,,85
+2025-11-04,Dr. Ahmed,Cigna,1882,1665.78,Paid,,54
+2025-10-11,Dr. Hassan,Medicaid,631,592.36,Paid,Prior Authorization,8
+2026-07-04,Dr. Khan,Blue Cross,1535,1461.23,Paid,,44
+2025-11-30,Dr. Fatima,Blue Cross,917,817.72,Paid,,87
+2025-09-18,Dr. Fatima,Medicare,2047,1848.41,Paid,,40
+2025-10-30,Dr. Khan,Cigna,496,401.49,Paid,,79
+2025-12-07,Dr. Ahmed,Cigna,645,584.65,Paid,Missing Documentation,59
+2025-10-05,Dr. Ahmed,Aetna,1192,1021.94,Paid,,97
+2026-06-12,Dr. Ali,Medicaid,1508,1228.79,Paid,,94
+2026-02-15,Dr. Ali,Blue Cross,209,195.79,Paid,Prior Authorization,68
+2026-02-01,Dr. Khan,Cigna,695,677.29,Paid,Duplicate Claim,38
+2026-01-27,Dr. Hassan,UnitedHealth,1386,1120.3,Paid,Eligibility,19
+2025-08-07,Dr. Khan,Medicaid,1900,1717.82,Paid,,22
+2025-07-27,Dr. Fatima,Medicaid,1008,1004.9,Paid,,66
+2026-03-25,Dr. Fatima,Medicaid,271,243.35,Paid,,26
+2025-08-31,Dr. Ali,UnitedHealth,133,0.0,Denied,Eligibility,78
+2026-01-19,Dr. Ali,Medicare,1754,1528.71,Paid,Duplicate Claim,64
+2026-05-02,Dr. Khan,Medicaid,2623,2191.79,Paid,Missing Documentation,63
+2025-09-16,Dr. Ali,Medicaid,2437,2200.38,Paid,,64
+2026-05-19,Dr. Ahmed,Aetna,2811,2689.67,Paid,Prior Authorization,102
+2026-06-02,Dr. Ali,Aetna,2755,0.0,Pending,Coding Error,77
+2026-06-26,Dr. Ali,Medicare,217,0.0,Denied,Duplicate Claim,18
+2026-07-01,Dr. Fatima,Aetna,1400,1316.61,Paid,,60
+2026-01-31,Dr. Hassan,UnitedHealth,2019,0.0,Denied,Duplicate Claim,70
+2025-12-14,Dr. Khan,Aetna,2047,1688.67,Paid,,70
+2026-04-06,Dr. Khan,Medicare,2728,2327.32,Paid,Prior Authorization,47
+2026-01-12,Dr. Hassan,Blue Cross,723,647.18,Paid,Duplicate Claim,55
+2025-10-04,Dr. Fatima,Aetna,352,327.88,Paid,Eligibility,77
+2026-04-30,Dr. Hassan,Aetna,1261,1182.63,Paid,,68
+2026-06-07,Dr. Khan,Medicaid,232,217.12,Paid,,43
+2026-02-12,Dr. Ali,UnitedHealth,1277,1224.21,Paid,Duplicate Claim,60
+2025-12-25,Dr. Khan,Medicare,2349,2330.98,Paid,Duplicate Claim,102
+2025-11-09,Dr. Fatima,Medicare,998,899.83,Paid,,66
+2025-11-24,Dr. Hassan,Aetna,2004,1857.44,Paid,,45
+2026-04-14,Dr. Fatima,Aetna,1760,0.0,Denied,,37
+2025-08-20,Dr. Khan,Medicaid,1285,0.0,Denied,,78
+2025-09-09,Dr. Ali,Blue Cross,1823,1559.39,Paid,Duplicate Claim,65
+2026-01-25,Dr. Fatima,Cigna,464,396.34,Paid,,101
+2026-05-21,Dr. Ali,Medicare,1143,967.4,Paid,,65
+2026-06-12,Dr. Ahmed,UnitedHealth,1708,1405.32,Paid,Missing Documentation,62
+2025-11-21,Dr. Fatima,Aetna,2267,1813.62,Paid,Missing Documentation,47
+2026-01-27,Dr. Hassan,Aetna,871,859.48,Paid,Eligibility,27
+2025-12-31,Dr. Ali,Medicaid,347,344.22,Paid,,74
+2026-01-03,Dr. Hassan,Medicaid,2498,0.0,Pending,Duplicate Claim,112
+2026-02-08,Dr. Fatima,Medicaid,817,0.0,Denied,,67
+2025-10-06,Dr. Hassan,Medicaid,1209,0.0,Pending,Coding Error,10
+2026-05-29,Dr. Ali,Blue Cross,2636,0.0,Pending,Eligibility,24
+2026-03-03,Dr. Fatima,Cigna,1414,0.0,Denied,,68
+2025-11-07,Dr. Ali,Blue Cross,644,621.17,Paid,Eligibility,12
+2026-03-13,Dr. Ali,Cigna,830,743.01,Paid,Prior Authorization,48
+2026-05-09,Dr. Hassan,Blue Cross,806,703.99,Paid,Coding Error,108
+2026-03-24,Dr. Hassan,Medicare,1875,1815.39,Paid,,31
+2025-10-09,Dr. Ali,Cigna,1233,1118.18,Paid,Prior Authorization,95
+2026-01-03,Dr. Ali,UnitedHealth,210,200.37,Paid,,38
+2026-01-20,Dr. Ali,Blue Cross,459,408.85,Paid,Duplicate Claim,80
+2026-01-18,Dr. Fatima,Medicare,1012,869.6,Paid,,26
+2025-10-10,Dr. Fatima,Aetna,1707,1592.19,Paid,,100
+2025-09-12,Dr. Fatima,Cigna,2420,1974.62,Paid,Eligibility,101
+2025-12-07,Dr. Ahmed,Cigna,1756,0.0,Denied,,44
+2026-02-20,Dr. Fatima,Medicare,2715,2292.28,Paid,,33
+2026-02-05,Dr. Ahmed,Medicare,1587,0.0,Denied,Eligibility,102
+2026-03-26,Dr. Hassan,Aetna,166,0.0,Denied,,33
+2026-02-03,Dr. Fatima,Medicaid,248,0.0,Pending,,12
+2025-08-06,Dr. Fatima,Medicaid,628,536.15,Paid,,25
+2026-05-07,Dr. Ahmed,Blue Cross,909,745.37,Paid,,18
+2026-06-14,Dr. Ali,Medicaid,371,328.61,Paid,,80
+2025-11-28,Dr. Khan,Medicaid,1705,0.0,Pending,Eligibility,104
+2025-10-11,Dr. Ali,Blue Cross,306,291.67,Paid,Missing Documentation,101
+2026-01-19,Dr. Khan,Medicaid,1000,834.84,Paid,,56
+2025-08-24,Dr. Ahmed,Blue Cross,2112,0.0,Pending,,96
+2025-12-09,Dr. Ali,Blue Cross,1252,1100.82,Paid,Duplicate Claim,55
+2026-05-24,Dr. Hassan,Blue Cross,1981,1897.05,Paid,Eligibility,8
+2026-06-18,Dr. Ali,Aetna,2909,2629.78,Paid,Eligibility,85
+2025-12-25,Dr. Khan,UnitedHealth,1787,1454.4,Paid,Coding Error,32
+2025-10-22,Dr. Khan,Medicare,2253,2154.22,Paid,Duplicate Claim,79
+2026-05-12,Dr. Ali,UnitedHealth,2429,2260.88,Paid,,63
+2026-07-01,Dr. Ahmed,UnitedHealth,148,147.6,Paid,Prior Authorization,116
+2025-11-09,Dr. Fatima,Medicare,1459,1302.05,Paid,Coding Error,95
+2025-10-09,Dr. Ahmed,Medicaid,1722,1595.87,Paid,Eligibility,113
+2025-08-26,Dr. Ali,Blue Cross,1211,1064.65,Paid,,28
+2025-08-29,Dr. Ahmed,Medicare,802,668.41,Paid,,53
+2025-10-31,Dr. Ahmed,Cigna,1978,1644.66,Paid,,49
+2026-01-07,Dr. Ali,UnitedHealth,1770,1441.09,Paid,Eligibility,6
+2025-11-12,Dr. Khan,Aetna,912,768.46,Paid,Missing Documentation,85
+2025-08-27,Dr. Khan,Cigna,415,402.07,Paid,,5
+2025-11-16,Dr. Ali,Aetna,2869,0.0,Denied,Missing Documentation,75
+2026-01-07,Dr. Hassan,Cigna,2868,2624.84,Paid,Eligibility,54
+2025-12-16,Dr. Hassan,Medicare,915,802.6,Paid,Missing Documentation,32
+2025-10-28,Dr. Ahmed,Cigna,2301,1910.25,Paid,Duplicate Claim,40
+2026-01-27,Dr. Fatima,Cigna,1273,1108.78,Paid,Missing Documentation,31
+2026-05-15,Dr. Khan,UnitedHealth,830,720.72,Paid,Coding Error,36
+2026-07-13,Dr. Ahmed,Aetna,1060,945.02,Paid,,45
+2025-10-12,Dr. Fatima,Medicaid,2151,2080.15,Paid,,119
+2026-06-03,Dr. Ali,Aetna,1353,1257.08,Paid,Missing Documentation,82
+2026-03-23,Dr. Khan,Aetna,477,409.38,Paid,,54
+2026-05-25,Dr. Fatima,Cigna,1490,1247.52,Paid,,88
+2025-12-25,Dr. Ali,Medicaid,1362,1138.41,Paid,Coding Error,49
+2025-12-21,Dr. Fatima,Medicare,906,738.23,Paid,,54
+2026-03-23,Dr. Ahmed,Medicare,2899,0.0,Denied,Eligibility,15
+2025-12-04,Dr. Ali,Medicare,1642,1326.54,Paid,,81
+2025-10-13,Dr. Fatima,UnitedHealth,2356,1999.29,Paid,,118
+2026-02-02,Dr. Ali,Medicaid,1569,1409.17,Paid,Coding Error,90
+2026-01-11,Dr. Khan,Medicare,959,954.96,Paid,Missing Documentation,57
+2026-02-23,Dr. Fatima,Medicare,2949,2909.73,Paid,,75
+2025-11-29,Dr. Ahmed,Blue Cross,470,439.05,Paid,,36
+2025-12-22,Dr. Khan,Cigna,1603,1534.57,Paid,Coding Error,87
+2026-03-27,Dr. Ali,Aetna,1209,1167.15,Paid,,91
+2026-04-16,Dr. Fatima,Medicare,1269,1251.88,Paid,,42
+2026-06-17,Dr. Fatima,UnitedHealth,1591,1494.61,Paid,,8
+2026-07-06,Dr. Ali,Cigna,2306,2149.76,Paid,,26
+2026-07-22,Dr. Ahmed,Blue Cross,1597,0.0,Pending,,1
+2026-07-07,Dr. Hassan,Medicaid,1646,1384.76,Paid,Eligibility,106
+2026-05-23,Dr. Ali,UnitedHealth,2293,1950.09,Paid,Coding Error,80
+2025-11-10,Dr. Khan,UnitedHealth,2982,2465.48,Paid,Eligibility,60
+2026-04-25,Dr. Fatima,UnitedHealth,1723,1535.2,Paid,,40
+2026-01-17,Dr. Khan,Medicare,1491,1403.88,Paid,Duplicate Claim,107
+2025-08-17,Dr. Hassan,Medicare,2800,0.0,Denied,Eligibility,34
+2026-06-04,Dr. Ali,Cigna,946,0.0,Pending,Prior Authorization,8
+2025-08-22,Dr. Ali,Blue Cross,1492,1314.22,Paid,,34
+2025-08-10,Dr. Khan,Aetna,948,813.47,Paid,Duplicate Claim,39
+2025-11-13,Dr. Ahmed,Medicare,1400,1251.86,Paid,Coding Error,3
+2025-12-27,Dr. Ahmed,Blue Cross,2310,0.0,Pending,,45
+2026-02-16,Dr. Khan,Blue Cross,1099,1032.04,Paid,Prior Authorization,74
+2025-08-05,Dr. Fatima,UnitedHealth,1702,0.0,Pending,,40
+2026-03-11,Dr. Ahmed,UnitedHealth,2325,0.0,Pending,,44
+2025-09-07,Dr. Ali,Aetna,2042,1908.15,Paid,Prior Authorization,93
+2026-05-25,Dr. Hassan,Medicaid,2200,1984.97,Paid,Coding Error,24
+2025-12-27,Dr. Khan,Blue Cross,845,0.0,Denied,,6
+2026-02-12,Dr. Ahmed,Medicaid,1196,1019.6,Paid,,78
+2025-12-19,Dr. Hassan,Medicaid,2573,2171.25,Paid,,83
+2025-09-08,Dr. Khan,Medicaid,553,485.31,Paid,Coding Error,100
+2026-04-17,Dr. Ali,Cigna,1499,1353.07,Paid,,95
+2026-02-03,Dr. Hassan,Cigna,1914,1559.78,Paid,,90
+2026-06-20,Dr. Ahmed,Blue Cross,1073,860.56,Paid,,13
+2026-07-07,Dr. Fatima,UnitedHealth,1554,0.0,Pending,,51
+2026-01-04,Dr. Ahmed,Medicare,1942,1867.83,Paid,,52
+2025-09-16,Dr. Ahmed,Medicaid,241,192.93,Paid,Duplicate Claim,61
+2025-09-27,Dr. Khan,Medicare,2129,2069.25,Paid,,101
+2026-05-15,Dr. Hassan,Aetna,1129,964.59,Paid,,112
+2026-06-26,Dr. Hassan,Aetna,872,726.01,Paid,Eligibility,16
+2025-10-10,Dr. Hassan,Medicaid,1183,1009.88,Paid,Coding Error,6
+2025-12-08,Dr. Fatima,Aetna,2422,2270.08,Paid,,72
+2026-03-28,Dr. Ahmed,Medicare,1673,1623.44,Paid,Eligibility,78
+2026-04-25,Dr. Hassan,Medicare,610,601.58,Paid,,4
+2025-08-26,Dr. Hassan,Medicaid,741,706.69,Paid,,74
+2025-12-31,Dr. Ahmed,Aetna,929,0.0,Denied,Coding Error,73
+2026-04-04,Dr. Khan,Blue Cross,986,918.37,Paid,Duplicate Claim,55
+2025-12-25,Dr. Ali,UnitedHealth,2627,2619.66,Paid,,107
+2026-07-08,Dr. Ali,UnitedHealth,2437,2154.98,Paid,Duplicate Claim,14
+2026-04-11,Dr. Hassan,Aetna,1226,1081.4,Paid,Coding Error,44
+2025-09-22,Dr. Hassan,UnitedHealth,492,485.89,Paid,,105
+2025-10-12,Dr. Ahmed,Aetna,1496,1347.04,Paid,Missing Documentation,84
+2025-12-07,Dr. Ahmed,Medicaid,2448,1977.06,Paid,,38
+2026-01-13,Dr. Ahmed,Medicare,2463,0.0,Denied,,36
+2026-07-05,Dr. Khan,Medicaid,1969,1957.77,Paid,Missing Documentation,68
+2025-11-20,Dr. Khan,Blue Cross,1114,1023.49,Paid,Missing Documentation,36
+2025-11-23,Dr. Ali,UnitedHealth,1627,0.0,Pending,Coding Error,87
+2026-01-17,Dr. Hassan,UnitedHealth,1194,1065.14,Paid,,79
+2025-11-22,Dr. Ali,Medicare,707,687.61,Paid,,51
+2025-08-25,Dr. Khan,Cigna,1565,1493.37,Paid,,5
+2026-04-04,Dr. Hassan,Medicaid,2765,0.0,Denied,,16
+2025-11-02,Dr. Ali,UnitedHealth,1626,1339.29,Paid,,106
+2025-11-06,Dr. Fatima,Aetna,600,574.8,Paid,Missing Documentation,55
+2026-05-08,Dr. Ahmed,Medicaid,1878,1518.72,Paid,Coding Error,12
+2026-03-31,Dr. Fatima,Medicaid,1194,0.0,Pending,,72
+2026-02-23,Dr. Fatima,Aetna,1762,1464.2,Paid,,105
+2025-08-04,Dr. Ahmed,Medicare,873,0.0,Pending,Coding Error,8
+2026-07-13,Dr. Khan,Aetna,496,425.18,Paid,,38
+2026-04-26,Dr. Ahmed,Cigna,387,329.85,Paid,,88
+2025-09-05,Dr. Fatima,Blue Cross,293,282.59,Paid,,39
+2026-01-06,Dr. Hassan,Medicaid,162,136.58,Paid,Duplicate Claim,18
+2026-05-27,Dr. Fatima,UnitedHealth,510,482.42,Paid,Missing Documentation,26
+2025-12-25,Dr. Fatima,Cigna,1663,0.0,Pending,Missing Documentation,47
+2026-04-30,Dr. Ahmed,Medicaid,2609,2378.57,Paid,,57
+2026-06-26,Dr. Ahmed,Medicaid,2457,2250.52,Paid,Duplicate Claim,83
+2025-09-30,Dr. Hassan,Aetna,2817,2782.33,Paid,,48
+2025-12-12,Dr. Ahmed,Medicare,2352,0.0,Pending,Missing Documentation,58
+2026-03-12,Dr. Ahmed,Aetna,326,303.0,Paid,,108
+2026-02-14,Dr. Hassan,UnitedHealth,1284,1085.61,Paid,Missing Documentation,45
+2025-07-30,Dr. Fatima,Medicaid,179,0.0,Pending,,12
+2026-03-11,Dr. Fatima,Cigna,1984,1919.33,Paid,Duplicate Claim,53
+2026-04-23,Dr. Khan,UnitedHealth,2841,0.0,Denied,Missing Documentation,111
+2025-10-21,Dr. Khan,Cigna,1533,1334.81,Paid,Duplicate Claim,84
+2026-05-11,Dr. Fatima,Aetna,1710,1626.79,Paid,,83
+2025-11-03,Dr. Ali,Medicaid,592,0.0,Pending,,24
+2026-07-22,Dr. Fatima,UnitedHealth,1616,1350.19,Paid,,15
+2025-08-25,Dr. Khan,Blue Cross,1354,1311.47,Paid,,117
+2026-06-24,Dr. Hassan,Cigna,2946,2430.0,Paid,Eligibility,39
+2026-01-08,Dr. Ali,Medicaid,1012,0.0,Pending,Prior Authorization,35
+2025-10-21,Dr. Fatima,Medicaid,2497,0.0,Denied,,81
+2026-02-08,Dr. Khan,Aetna,2161,0.0,Pending,Coding Error,61
+2026-06-29,Dr. Khan,Medicare,971,921.02,Paid,,31
+2026-05-21,Dr. Hassan,Cigna,1617,1501.83,Paid,Missing Documentation,75
+2025-08-16,Dr. Khan,Blue Cross,1255,1126.96,Paid,Duplicate Claim,118
+2026-04-01,Dr. Khan,UnitedHealth,667,547.05,Paid,Duplicate Claim,103
+2026-01-14,Dr. Ali,Aetna,2155,1729.2,Paid,Prior Authorization,76
+2026-05-06,Dr. Fatima,Aetna,318,271.59,Paid,,109
+2025-12-11,Dr. Ali,Medicare,1891,1643.2,Paid,,84
+2025-12-22,Dr. Ahmed,Blue Cross,2155,2152.08,Paid,Duplicate Claim,43
+2025-07-24,Dr. Hassan,Blue Cross,401,320.88,Paid,,80
+2025-07-24,Dr. Hassan,Cigna,2615,2335.6,Paid,,109
+2026-05-15,Dr. Ahmed,Medicare,737,667.25,Paid,Missing Documentation,18
+2025-10-29,Dr. Fatima,Medicare,282,238.57,Paid,Eligibility,84
+2025-11-20,Dr. Ali,Medicare,2416,2367.61,Paid,Coding Error,54
+2026-01-21,Dr. Hassan,UnitedHealth,2665,2655.91,Paid,Prior Authorization,3
+2025-08-20,Dr. Ahmed,UnitedHealth,357,325.37,Paid,,115
+2026-04-10,Dr. Hassan,Cigna,564,486.45,Paid,Missing Documentation,27
+2025-10-30,Dr. Ahmed,Aetna,2327,2135.78,Paid,,100
+2025-09-25,Dr. Fatima,Aetna,2996,2760.43,Paid,Eligibility,20
+2026-05-13,Dr. Ali,UnitedHealth,594,536.01,Paid,,46
+2026-04-01,Dr. Ali,Aetna,1716,1470.56,Paid,,39
+2025-11-03,Dr. Fatima,Cigna,1141,1121.81,Paid,,97
+2025-08-02,Dr. Ali,Medicare,2611,0.0,Pending,Duplicate Claim,66
+2026-02-20,Dr. Khan,Aetna,1585,1472.77,Paid,Prior Authorization,100
+2026-04-29,Dr. Hassan,Medicaid,2188,1756.73,Paid,Duplicate Claim,31
+2026-03-09,Dr. Fatima,Cigna,1642,1467.72,Paid,,78
+2026-03-29,Dr. Ali,Aetna,2051,0.0,Pending,,68
+2025-09-16,Dr. Hassan,Cigna,1653,1480.26,Paid,Coding Error,16
+2026-02-24,Dr. Ahmed,Aetna,863,765.34,Paid,,52
+2025-12-18,Dr. Ali,Aetna,1589,1395.67,Paid,,79
+2025-08-05,Dr. Ahmed,UnitedHealth,1508,1469.9,Paid,,73
+2025-11-18,Dr. Fatima,UnitedHealth,1584,1325.6,Paid,Prior Authorization,75
+2026-03-28,Dr. Khan,Cigna,2251,2001.72,Paid,,7
+2026-01-29,Dr. Ali,Cigna,473,425.21,Paid,Missing Documentation,105
+2026-01-14,Dr. Hassan,UnitedHealth,1648,1417.68,Paid,Duplicate Claim,116
+2025-09-06,Dr. Fatima,Medicare,2963,2811.07,Paid,,23
+2026-04-29,Dr. Hassan,Blue Cross,2774,2550.93,Paid,Coding Error,116
+2025-11-11,Dr. Fatima,Medicare,2731,0.0,Pending,,23
+2025-08-23,Dr. Khan,Medicaid,2708,2230.66,Paid,Prior Authorization,29
+2026-03-01,Dr. Fatima,UnitedHealth,905,754.1,Paid,Prior Authorization,106
+2025-12-20,Dr. Fatima,Medicare,1254,1222.68,Paid,,105
+2026-02-22,Dr. Fatima,Aetna,468,0.0,Pending,,52
+2025-10-03,Dr. Ali,Medicaid,392,364.38,Paid,,18
+2025-12-30,Dr. Ali,Cigna,2779,0.0,Pending,,19
+2026-06-22,Dr. Ali,Medicare,1282,1217.92,Paid,Missing Documentation,66
+2026-05-26,Dr. Hassan,UnitedHealth,1621,1597.06,Paid,,60
+2026-01-12,Dr. Ali,Blue Cross,2533,2479.57,Paid,,100
+2026-02-12,Dr. Ahmed,Blue Cross,1648,1538.93,Paid,Eligibility,20
+2026-02-09,Dr. Fatima,Aetna,2502,0.0,Denied,,69
+2026-02-12,Dr. Khan,Blue Cross,541,532.59,Paid,,49
+2025-10-16,Dr. Khan,UnitedHealth,1528,1353.94,Paid,Prior Authorization,81
+2025-07-24,Dr. Fatima,Aetna,2173,0.0,Pending,Missing Documentation,72
+2025-08-27,Dr. Ali,Medicaid,2984,2957.45,Paid,Eligibility,66
+2026-05-18,Dr. Hassan,Aetna,664,0.0,Denied,Eligibility,102
+2026-05-10,Dr. Ali,Medicaid,1898,1824.39,Paid,Eligibility,66
+2025-09-10,Dr. Hassan,Medicare,416,408.35,Paid,,9
+2026-03-20,Dr. Ahmed,Medicare,1620,0.0,Denied,Duplicate Claim,40
+2025-10-05,Dr. Ahmed,Medicare,2939,2482.57,Paid,Eligibility,53
+2025-08-29,Dr. Khan,Cigna,148,130.91,Paid,Prior Authorization,90
+2026-02-12,Dr. Ahmed,Cigna,2493,0.0,Pending,Coding Error,18
+2025-09-01,Dr. Khan,Blue Cross,2625,2285.75,Paid,Missing Documentation,50
+2026-04-18,Dr. Khan,Medicaid,1257,0.0,Pending,Missing Documentation,94
+2026-04-16,Dr. Khan,Medicaid,668,655.32,Paid,Duplicate Claim,14
+2026-07-11,Dr. Hassan,Blue Cross,386,353.45,Paid,Duplicate Claim,25
+2025-12-07,Dr. Khan,Medicaid,607,561.19,Paid,Eligibility,68
+2026-03-16,Dr. Ali,Blue Cross,874,0.0,Pending,Duplicate Claim,33
+2026-04-09,Dr. Hassan,Medicaid,2225,2144.25,Paid,Coding Error,92
+2025-09-16,Dr. Hassan,Blue Cross,2756,2305.63,Paid,,14
+2026-03-28,Dr. Hassan,UnitedHealth,2341,2253.92,Paid,,35
+2025-09-13,Dr. Fatima,Blue Cross,1645,1599.63,Paid,Coding Error,85
+2025-09-17,Dr. Fatima,Aetna,1336,0.0,Pending,Coding Error,18
+2025-12-24,Dr. Khan,UnitedHealth,1707,0.0,Denied,,41
+2025-08-28,Dr. Ahmed,Medicaid,2908,2618.74,Paid,Missing Documentation,115
+2025-08-05,Dr. Ali,UnitedHealth,942,804.33,Paid,Duplicate Claim,47
+2025-12-17,Dr. Ahmed,Cigna,274,271.28,Paid,,24
+2026-07-19,Dr. Hassan,Blue Cross,1159,1015.93,Paid,Eligibility,35
+2026-02-10,Dr. Fatima,Aetna,2697,2559.85,Paid,Eligibility,93
+2026-02-09,Dr. Hassan,Medicare,599,580.66,Paid,,100
+2026-05-05,Dr. Ali,Medicare,2270,2107.37,Paid,,86
+2026-05-17,Dr. Khan,Blue Cross,2033,1784.43,Paid,,39
+2025-08-11,Dr. Ali,Medicaid,2035,0.0,Denied,,56
+2025-08-12,Dr. Ahmed,Medicaid,1259,1071.51,Paid,Missing Documentation,79
+2025-10-30,Dr. Ali,Medicare,2684,2469.38,Paid,Prior Authorization,89
+2025-08-11,Dr. Fatima,Medicaid,1857,1585.7,Paid,Missing Documentation,109
+2026-07-11,Dr. Fatima,Aetna,2796,2494.58,Paid,Duplicate Claim,39
+2025-07-24,Dr. Ahmed,Blue Cross,2315,2022.79,Paid,,78
+2026-06-15,Dr. Ahmed,Blue Cross,661,639.92,Paid,,54
+2026-06-19,Dr. Ali,Cigna,1469,1189.9,Paid,Missing Documentation,19
+2026-03-14,Dr. Ali,Medicare,2628,2506.84,Paid,,107
+2025-10-29,Dr. Hassan,UnitedHealth,2333,0.0,Pending,,42
+2026-04-01,Dr. Fatima,Blue Cross,2198,1861.91,Paid,,45
+2026-04-16,Dr. Hassan,Blue Cross,1611,1543.25,Paid,Eligibility,57
+2026-06-14,Dr. Fatima,Aetna,1612,1546.33,Paid,Prior Authorization,117
+2025-10-29,Dr. Ahmed,UnitedHealth,2867,2438.76,Paid,,63
+2026-04-29,Dr. Ahmed,Cigna,946,850.29,Paid,Eligibility,28
+2025-08-14,Dr. Ali,Medicaid,2832,2568.17,Paid,,75
+2025-12-14,Dr. Ali,Medicaid,184,175.32,Paid,Coding Error,30
+2025-12-11,Dr. Khan,Cigna,1848,1690.53,Paid,Eligibility,60
+2026-06-18,Dr. Fatima,Cigna,2124,1938.22,Paid,Eligibility,12
+2026-01-21,Dr. Ahmed,UnitedHealth,1619,1543.64,Paid,,63
+2025-11-30,Dr. Ali,Medicare,1016,0.0,Pending,Prior Authorization,110
+2025-11-12,Dr. Ali,Cigna,1495,1234.06,Paid,Prior Authorization,27
+2026-05-16,Dr. Khan,Cigna,2949,2695.38,Paid,Duplicate Claim,99
+2026-06-10,Dr. Fatima,Aetna,1474,1247.31,Paid,Missing Documentation,116
+2026-02-09,Dr. Khan,UnitedHealth,2850,2809.26,Paid,Eligibility,98
+2025-10-18,Dr. Ali,Cigna,2283,1950.39,Paid,Eligibility,84
+2025-09-29,Dr. Ahmed,UnitedHealth,642,640.82,Paid,,52
+2026-01-28,Dr. Fatima,Medicaid,1168,972.02,Paid,,111
+2025-08-14,Dr. Fatima,Blue Cross,1866,1702.95,Paid,Missing Documentation,73
+2025-11-29,Dr. Hassan,UnitedHealth,2590,2167.25,Paid,,72
+2026-07-23,Dr. Ahmed,Medicare,2064,2042.88,Paid,,79
+2025-12-20,Dr. Fatima,Blue Cross,131,121.8,Paid,Missing Documentation,101
+2025-08-23,Dr. Hassan,Cigna,2184,1970.53,Paid,,64
+2025-08-03,Dr. Khan,Cigna,444,355.78,Paid,Prior Authorization,17
+2025-07-30,Dr. Hassan,UnitedHealth,2659,2156.76,Paid,Duplicate Claim,46
+2026-02-05,Dr. Fatima,UnitedHealth,2578,2175.77,Paid,,92
+2025-10-15,Dr. Ahmed,Cigna,204,0.0,Denied,,50
+2025-10-19,Dr. Khan,Cigna,2368,2015.78,Paid,Eligibility,82
+2025-08-18,Dr. Ali,Aetna,889,0.0,Pending,,59
+2025-11-09,Dr. Khan,Aetna,2984,2603.42,Paid,Prior Authorization,101
+2026-07-13,Dr. Khan,Medicare,791,718.38,Paid,,117
+2025-09-04,Dr. Ahmed,UnitedHealth,2865,2629.46,Paid,Duplicate Claim,118
+2025-12-29,Dr. Ahmed,Blue Cross,108,96.37,Paid,Duplicate Claim,93
+2025-12-08,Dr. Hassan,Blue Cross,1204,966.57,Paid,,44
+2026-04-27,Dr. Ali,Medicare,2443,2186.94,Paid,Prior Authorization,104
+2025-11-22,Dr. Khan,Medicaid,1465,0.0,Denied,Duplicate Claim,113
+2026-04-20,Dr. Hassan,Medicaid,1552,0.0,Pending,,66
+2025-12-31,Dr. Fatima,Cigna,1427,0.0,Pending,Prior Authorization,28
+2025-11-04,Dr. Ali,Aetna,1340,1077.99,Paid,,71
+2026-03-03,Dr. Khan,Blue Cross,929,852.68,Paid,,80
+2025-10-25,Dr. Ahmed,Medicaid,1611,1390.86,Paid,,50
+2026-06-29,Dr. Ahmed,Cigna,1533,1334.67,Paid,,111
+2026-01-18,Dr. Ahmed,UnitedHealth,1074,1005.0,Paid,,74
+2026-05-18,Dr. Ahmed,Aetna,2363,2066.43,Paid,,71
+2026-01-03,Dr. Hassan,Blue Cross,1267,0.0,Pending,,89
+2026-02-22,Dr. Hassan,Blue Cross,2070,1980.25,Paid,,37
+2025-09-30,Dr. Khan,Medicare,2160,2063.73,Paid,Duplicate Claim,83
+2026-04-24,Dr. Ahmed,Medicare,2447,0.0,Pending,Missing Documentation,86
+2025-08-05,Dr. Fatima,Aetna,2189,1995.39,Paid,,30
+2026-07-13,Dr. Fatima,Medicare,893,848.44,Paid,,46
+2026-04-22,Dr. Fatima,Aetna,312,293.59,Paid,,71
+2026-06-10,Dr. Khan,UnitedHealth,1204,1048.33,Paid,Missing Documentation,112
+2026-01-13,Dr. Ali,Medicaid,2521,2017.9,Paid,Eligibility,15
+2026-01-13,Dr. Hassan,Medicare,242,0.0,Pending,,64
+2025-10-18,Dr. Ali,Blue Cross,2560,0.0,Denied,Missing Documentation,86
+2026-02-28,Dr. Ali,Medicare,2957,2502.96,Paid,Eligibility,29
+2026-03-25,Dr. Ali,Aetna,1452,1399.53,Paid,Coding Error,106
+2025-11-03,Dr. Fatima,Aetna,417,335.15,Paid,Eligibility,90
+2025-09-06,Dr. Khan,Cigna,2642,0.0,Denied,,108
+2026-02-05,Dr. Fatima,Blue Cross,1459,1341.09,Paid,Missing Documentation,35
+2026-01-05,Dr. Ali,Blue Cross,2822,0.0,Pending,Coding Error,72
+2026-02-03,Dr. Khan,Blue Cross,291,261.55,Paid,,20
+2026-01-20,Dr. Khan,Medicaid,221,0.0,Pending,Missing Documentation,68
+2025-11-09,Dr. Ali,Medicaid,158,129.76,Paid,Coding Error,15
